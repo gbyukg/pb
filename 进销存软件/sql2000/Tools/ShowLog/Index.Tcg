@@ -1,0 +1,38 @@
+[Config]
+Count     =3
+
+ID1       =80
+Name1     ="查看 SQLServer 启动日志"
+FileIco1  ="$Windows\NOTEPAD.EXE"
+IcoIndex1 =0
+FileEXE1  ="$Windows\NOTEPAD.EXE"
+FilePara1 =""$LogFileSQL日志.Log""
+RegEXE1   =""
+RegPara1  =""
+FilePath1 ="$LogFile\"
+Hint11    ="查看数据库启动日志，用于错误诊断！"
+Hint21    =""
+
+ID2       =90
+Name2     ="查看 管理器日志"
+FileIco2  ="$Windows\NOTEPAD.EXE"
+IcoIndex2 =0
+FileEXE2  ="$Windows\NOTEPAD.EXE"
+FilePara2 =""$RunPath管理器日志.txt""
+RegEXE2   =""
+RegPara2  =""
+FilePath2 ="$RunPath"
+Hint12    ="查看管理器日志！"
+Hint22    =""
+
+ID3       =10
+Name3     ="查看 帮助信息"
+FileIco3  ="$Windows\NOTEPAD.EXE"
+IcoIndex3 =0
+FileEXE3  ="wordpad.exe"
+FilePara3 =""$RunPath帮助.rtf""
+RegEXE3   =""
+RegPara3  =""
+FilePath3 ="$RunPath"
+Hint13    ="版权、帮助、更新记录等！"
+Hint23    =""

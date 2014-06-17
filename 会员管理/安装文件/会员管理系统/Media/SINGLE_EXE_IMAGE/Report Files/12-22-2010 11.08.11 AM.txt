@@ -1,0 +1,733 @@
+//////////////////////////////////////////////////////////////////////
+/////////////////////////////// Summary //////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+		Features:  			        13
+		Components:			        22
+		Number of Files:		       424
+		Size of Files:   		      36919134
+		Size in Library:		      11290034
+
+
+		<Support>
+			Engine
+				Log
+				Kernel
+			Main Installation
+				Script
+				Setup
+				StrTbl
+				RunTime
+				Resource
+		<Data>
+			Disk<1>
+			廉信会员管理系统
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Features ///////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+*<Support>*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Log*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Kernel*
+
+		Component
+		------------------------------------------------------
+		"<Engine>Kernel Placeholder"
+		"<Engine>EngineCommonPlaceHolderSelfReg"
+
+*<Support>\Main Installation*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Main Installation\Script*
+
+		Component
+		------------------------------------------------------
+		"<Support>Script"
+
+*<Support>\Main Installation\Setup*
+
+		Component
+		------------------------------------------------------
+		"<Support>Language Independent OS Independent Files"
+		"<Support>Chinese (Simplified) OS Independent Files"
+		"<Support>Misc Support Files"
+		"<Support>Build Generated Support Files"
+		"<Support>Misc i64 Support Files"
+		"<Support>Misc x64 Support Files"
+
+*<Support>\Main Installation\StrTbl*
+
+		Component
+		------------------------------------------------------
+		"<Support>Chinese (Simplified) String Tables"
+
+*<Support>\Main Installation\RunTime*
+
+		Component
+		------------------------------------------------------
+		"<Support>Non-SelfRegistering"
+
+*<Support>\Main Installation\Resource*
+
+		Component
+		------------------------------------------------------
+		"<Support>Chinese (Simplified) Files"
+
+*<Data>*
+
+		Component
+		------------------------------------------------------
+
+*<Data>\Disk<1>*
+
+		Component
+		------------------------------------------------------
+		"<Disk1>Disk1 Files(1)"
+		"<Disk1>Disk1 Files(2)"
+		"<Disk1>Disk1 Files(3)"
+		"<Disk1>Disk1 Files(4)"
+
+*<Data>\廉信会员管理系统*
+
+		Component
+		------------------------------------------------------
+		"Files"
+		"Files1"
+		"Files2"
+		"Files3"
+		"Files4"
+		"SelfRegFiles"
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Components ////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+><Engine>Kernel Placeholder<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Engine>EngineCommonPlaceHolderSelfReg<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Script<
+
+		Size of Files:   		        230829
+		Size in Library:		        230829
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             2010-12-22     11:07:50       230829  ""                 "A"           "4236dbbff0795f5f22dc7b0b04e0c2e0"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\script files\setup.inx"
+
+><Support>Language Independent OS Independent Files<
+
+		Size of Files:   		         12117
+		Size in Library:		          3071
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"协议.txt"                                              2012-11-28     04:26:00          624  ""                 "A"           "da3af6bfba2a680bfade983ba84382ff"      "d:\windows tutorial\installshield\协议.txt"
+		"license.rtf"                                           2004-11-28     09:52:18        11493  ""                 "A"           "e7eb45e877c8cb80f56e9dbc9504e757"      "e:\installshield\2009\redist\0409\license.rtf"
+
+><Support>Chinese (Simplified) OS Independent Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Misc Support Files<
+
+		Size of Files:   		         76583
+		Size in Library:		         17958
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"corecomp.ini"                                          2006-03-06     23:55:04        65503  ""                 "A"           "09d38ceca6a012f4ce5b54f03db9b21a"      "e:\installshield\2009\redist\language independent\i386\corecomp.ini"
+		"dotnetinstaller.exe"                                   2008-05-10     00:27:18        11080  "15.0.0.498"       "A"           "454b552e06b44d4594a811e066dc4c5f"      "e:\installshield\2009\redist\language independent\i386\dotnetinstaller.exe"
+
+><Support>Build Generated Support Files<
+
+		Size of Files:   		           155
+		Size in Library:		           133
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"fontdata.ini"                                          2010-12-22     11:08:00           39  ""                 "A"           "00f313e3e007599349a0c4d81c7807c4"      "c:\docume~1\admini~1\locals~1\temp\fontdata.ini"
+		"difxdata.ini"                                          2010-12-22     11:08:00           86  ""                 "A"           "10baa5b67536f4433f37534b9c8bb828"      "c:\docume~1\admini~1\locals~1\temp\difxdata.ini"
+		"vasdata.ini"                                           2010-12-22     11:08:00           30  ""                 "A"           "b16ff78e4420d4049da82fffe3026d31"      "c:\docume~1\admini~1\locals~1\temp\vasdata.ini"
+
+><Support>Misc i64 Support Files<
+
+		Size of Files:   		        247608
+		Size in Library:		        107194
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           2008-05-10     00:28:32       247608  "15.0.0.498"       "A"           "c7f07e6084a2beedea02836b15585299"      "e:\installshield\2009\redist\language independent\i64\isbew64.exe"
+
+><Support>Misc x64 Support Files<
+
+		Size of Files:   		        117560
+		Size in Library:		         55536
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           2008-05-10     00:28:30       117560  "15.0.0.498"       "A"           "2a276ba2b7782476302c59d0f760f4bc"      "e:\installshield\2009\redist\language independent\x64\isbew64.exe"
+
+><Support>Chinese (Simplified) String Tables<
+
+		Size of Files:   		          4583
+		Size in Library:		           573
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"stringtable-0804-chinese (simplified).ips"             2010-12-22     11:07:50         4583  ""                 "A"           "bc4a75be95a66926b8fa434e1f65ed17"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\string tables\stringtable-0804-chinese (simplified).ips"
+
+><Support>Non-SelfRegistering<
+
+		Size of Files:   		        224192
+		Size in Library:		        215498
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isrt.dll"                                              2008-05-10     00:27:42       223024  "15.0.0.498"       "A"           "0f68d760fb480a1b039ca7d6b877d24c"      "e:\installshield\2009\redist\language independent\i386\isrt.dll"
+		"default.pal"                                           2006-03-06     23:55:02         1168  ""                 "A"           "0abafe3f69d053494405061de2629c82"      "e:\installshield\2009\redist\language independent\i386\default.pal"
+
+><Support>Chinese (Simplified) Files<
+
+		Size of Files:   		        274432
+		Size in Library:		         80196
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"_isres.dll"                                            2008-05-09     23:55:50       274432  "15.0.0.498"       "A"           "19ec9900c36f2dcfb95086619083dcc6"      "e:\installshield\2009\redist\0804\i386\_isres.dll"
+
+><Disk1>Disk1 Files(1)<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"layout.bin"                                            2004-11-28     10:32:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "e:\installshield\2009\support\build\layout.bin"
+		"data1.hdr"                                             2004-11-28     10:32:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "e:\installshield\2009\support\build\data1.hdr"
+		"data1.cab"                                             2004-11-28     10:32:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "e:\installshield\2009\support\build\data1.cab"
+
+><Disk1>Disk1 Files(2)<
+
+		Size of Files:   		       1281856
+		Size in Library:		       1281856
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.exe"                                             2010-12-22     11:08:00       393216  "15.0.0.498"       "A"           "8d699c26857440661fad1aed839ffc79"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\media\single_exe_image\disk images\disk1\setup.exe"
+		"_setup.dll"                                            2008-05-10     00:27:22       333120  "15.0.0.498"       "A"           "7de2d19c870587b8ffc5a446e9b6e29a"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\media\single_exe_image\disk images\disk1\_setup.dll"
+		"issetup.dll"                                           2008-06-19     22:42:44       555520  "15.0.0.533"       ""            "c5b13b3c260393e7d64506b7399a2a11"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\media\single_exe_image\disk images\disk1\issetup.dll"
+
+><Disk1>Disk1 Files(3)<
+
+		Size of Files:   		        230829
+		Size in Library:		        230829
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             2010-12-22     11:07:50       230829  ""                 "A"           "4236dbbff0795f5f22dc7b0b04e0c2e0"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\script files\setup.inx"
+
+><Disk1>Disk1 Files(4)<
+
+		Size of Files:   		           491
+		Size in Library:		           491
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.ini"                                             2010-12-22     11:08:00          491  ""                 "A"           "79f7d3606ef9a544ce817fdab37ba0f4"      "d:\mywork\pb\会员管理\安装文件\会员管理系统\media\single_exe_image\disk images\disk1\setup.ini"
+
+>Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+>Files1<
+
+		Size of Files:   		      24723108
+		Size in Library:		       8243129
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"buttonskin.dll"                                        2003-07-22     12:22:48        84992  ""                 "A"           "c36f8ae23a99e5795aa9315d91709eaf"      "d:\mywork\pb\会员管理\buttonskin.dll"
+		"getcpuid.dll"                                          2001-02-16     14:08:02        59904  ""                 "A"           "b00722fe169cd9c299ed680cf1f70f9d"      "d:\mywork\pb\会员管理\getcpuid.dll"
+		"getmac.dll"                                            2005-02-17     11:32:48        40448  ""                 "A"           "c66bd84f08f033424e49d35240372b15"      "d:\mywork\pb\会员管理\getmac.dll"
+		"netdiskdll.dll"                                        2003-12-30     15:12:22        36864  "1.0.0.1"          "A"           "c98a5661d8072aabd537d176ebb10d36"      "d:\mywork\pb\会员管理\netdiskdll.dll"
+		"printctrl.dll"                                         2003-11-01     11:13:34       139264  "1.0.0.1"          "A"           "0317d747426406e53e041f57bc0e3e43"      "d:\mywork\pb\会员管理\printctrl.dll"
+		"spellcode.dll"                                         2002-12-03     15:00:14       116224  "1.0.0.0"          "A"           "c6d8454e9c0538069267e9519cfe5102"      "d:\mywork\pb\会员管理\spellcode.dll"
+		"syunew3d.dll"                                          2007-09-05     21:03:30        57344  ""                 "A"           "d367c60e5b22373b0c6f79f7d76b0b55"      "d:\mywork\pb\会员管理\syunew3d.dll"
+		"control.dll"                                           2010-01-09     15:34:16      1168896  "1.0.0.1"          "A"           "f3bb533109f09ec6ff35b43ff37d365a"      "d:\mywork\pb\会员管理\control.dll"
+		"control.pbd"                                           2010-10-20     13:15:40        30208  ""                 "A"           "3d22e057b1318feb7424285b9bc47cf5"      "d:\mywork\pb\会员管理\control.pbd"
+		"dw2xls.pbd"                                            2010-10-20     13:15:50       783872  ""                 "A"           "484a1414e632e22bee6f2d2d07a8e229"      "d:\mywork\pb\会员管理\dw2xls.pbd"
+		"getbitmap.dll"                                         2005-03-10     15:59:34      1314905  "1.0.0.1"          "A"           "97ee34212dc2a03e39d5644d62a77c32"      "d:\mywork\pb\会员管理\getbitmap.dll"
+		"hygl.dll"                                              2010-01-09     15:29:50       411136  "1.0.0.1"          "A"           "7d4959bb87b7e9444718fb6ef5dc3a15"      "d:\mywork\pb\会员管理\hygl.dll"
+		"hygl.pbd"                                              2010-10-20     13:15:40       334848  ""                 "A"           "11c649bdd2f613cede2e307273b6743a"      "d:\mywork\pb\会员管理\hygl.pbd"
+		"hyxf.pbd"                                              2010-10-20     13:15:46       885760  ""                 "A"           "ec63e5aaf34216647a5baf333ec03a66"      "d:\mywork\pb\会员管理\hyxf.pbd"
+		"libjcc.dll"                                            2004-06-25     13:06:44       356352  "5.0.0.54"         "A"           "181e151d2afd9a4ce97024c4a779e3d4"      "d:\mywork\pb\会员管理\libjcc.dll"
+		"libjlog.dll"                                           2004-06-25     13:06:44        32768  "5.0.0.54"         "A"           "b285e202b381da45bbfc8f122fe6a321"      "d:\mywork\pb\会员管理\libjlog.dll"
+		"libjsybheap.dll"                                       2003-02-14     16:23:34        35328  ""                 "A"           "1f003b462ddcf9937c698010b3144687"      "d:\mywork\pb\会员管理\libjsybheap.dll"
+		"msvcp71.dll"                                           2003-03-19     12:14:52       499712  "7.10.3077.0"      "A"           "561fa2abb31dfa8fab762145f81667c2"      "d:\mywork\pb\会员管理\msvcp71.dll"
+		"msvcr71.dll"                                           2003-02-21     20:42:22       348160  "7.10.3052.4"      "A"           "86f1895ae8c5e8b17d99ece768a70732"      "d:\mywork\pb\会员管理\msvcr71.dll"
+		"msvcrt.dll"                                            2002-08-30     12:04:02       266293  "6.0.8337.0"       "A"           "63da4613383ec70e047b4cd5c48f0b05"      "d:\mywork\pb\会员管理\msvcrt.dll"
+		"pbdwe100.dll"                                          2004-10-25     12:53:44      2756608  "10.0.1.5502"      "A"           "aa6ed50468a6bde375a1e60045f49298"      "d:\mywork\pb\会员管理\pbdwe100.dll"
+		"pborc100.dll"                                          2004-10-25     12:53:44        44032  "10.0.1.5502"      "A"           "e83a31c509ccb3251b4e5d1b5cf2e0c1"      "d:\mywork\pb\会员管理\pborc100.dll"
+		"pbshr100.dll"                                          2004-06-25     19:17:44       946176  "10.0.0.4510"      "A"           "861539011d11ddbd1e36e06fc812d1ce"      "d:\mywork\pb\会员管理\pbshr100.dll"
+		"pbtra100.dll"                                          2004-10-25     12:53:44        39424  "10.0.1.5502"      "A"           "3e0cfa04aef665a251fd5960ec99cf79"      "d:\mywork\pb\会员管理\pbtra100.dll"
+		"pbvm100.dll"                                           2004-11-01     19:29:28      4099072  "10.0.1.5502"      "A"           "41729a1d70983a3b29df50077ad146f6"      "d:\mywork\pb\会员管理\pbvm100.dll"
+		"pbvm80.dll"                                            2002-09-19     18:35:54      4506112  "8.0.3.9704"       "A"           "bf9e093353c3140d101c77968a683716"      "d:\mywork\pb\会员管理\pbvm80.dll"
+		"print.dll"                                             2005-05-12     15:23:46          193  ""                 "A"           "cf76cd07ad7cb94bb6fb255a0e2f4cbf"      "d:\mywork\pb\会员管理\print.dll"
+		"qclr.dll"                                              2010-01-09     15:34:48       832000  "1.0.0.1"          "A"           "9b9a445f2bb232c65c3fc5fe9f83462e"      "d:\mywork\pb\会员管理\qclr.dll"
+		"qclr.pbd"                                              2010-10-20     13:15:40       803328  ""                 "A"           "acdb3ca879b47eb4f53da66c8fd7ed6c"      "d:\mywork\pb\会员管理\qclr.pbd"
+		"sjkgl.pbd"                                             2010-10-20     13:15:48       254464  ""                 "A"           "1acc05766c569ff4347781051dda3f8a"      "d:\mywork\pb\会员管理\sjkgl.pbd"
+		"spxx.dll"                                              2010-01-09     15:35:24       515584  "1.0.0.1"          "A"           "09e2cfb23606bb0610c6343545a2ef30"      "d:\mywork\pb\会员管理\spxx.dll"
+		"spxx.pbd"                                              2010-10-20     13:15:44       329728  ""                 "A"           "550e31423ca5c48d372497840b689be2"      "d:\mywork\pb\会员管理\spxx.pbd"
+		"syscsh.dll"                                            2009-09-14     08:04:46          341  ""                 "A"           "09d894ae4436b1e10301f4dba9a4ed73"      "d:\mywork\pb\会员管理\syscsh.dll"
+		"tjbb.pbd"                                              2010-10-20     13:15:50      1123840  ""                 "A"           "568eb50ec30f5535f19261ab76e2a781"      "d:\mywork\pb\会员管理\tjbb.pbd"
+		"txsz.pbd"                                              2010-10-20     13:15:42       207872  ""                 "A"           "9ea21fcc14866cb81077ca9b4fd18c0e"      "d:\mywork\pb\会员管理\txsz.pbd"
+		"vip.dll"                                               2010-01-09     15:36:48      1114112  "1.0.0.1"          "A"           "1fb7a1f50baf8e9f41ae44d12b19b599"      "d:\mywork\pb\会员管理\vip.dll"
+		"yhgl.pbd"                                              2010-10-20     13:15:50        98304  ""                 "A"           "86d6f3f16235942697e0ceec3a3d1ea1"      "d:\mywork\pb\会员管理\yhgl.pbd"
+		"廉信会员管理.exe"                                      2010-10-20     13:15:38        48640  "1.0.0.1"          "A"           "8700d01a75f2eb03f87380292bf96f12"      "d:\mywork\pb\会员管理\廉信会员管理.exe"
+
+>Files2<
+
+		Size of Files:   		       2064384
+		Size in Library:		        154042
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"hygl.mdb"                                              2010-12-22     11:07:26      2064384  ""                 "A"           "cd4f9d4679116cf31806dbab193caa12"      "d:\mywork\pb\会员管理\会员管理注册\数据库备份\hygl.mdb"
+
+>Files3<
+
+		Size of Files:   		       6944395
+		Size in Library:		        496510
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"01.bmp"                                                2009-11-17     08:53:36        13110  ""                 "A"           "4bf32123e9a08dc29a6035c06a23c193"      "d:\mywork\pb\会员管理\pic\01.bmp"
+		"02.bmp"                                                2009-11-17     13:32:16        14530  ""                 "A"           "43969b2326c6f630a13adfcad0f98905"      "d:\mywork\pb\会员管理\pic\02.bmp"
+		"123.bmp"                                               2009-10-31     10:34:54        38588  ""                 "A"           "fbe62196c767bc81df4f511c76044065"      "d:\mywork\pb\会员管理\pic\123.bmp"
+		"a.jpg"                                                 2009-08-02     10:10:52         1858  ""                 "A"           "89fd2caa9e5a6560f01ec904c5bc3317"      "d:\mywork\pb\会员管理\pic\a.jpg"
+		"b.jpg"                                                 2009-07-31     17:31:00         2115  ""                 "A"           "2751b57d9b3d9476f06c5f13903f4b52"      "d:\mywork\pb\会员管理\pic\b.jpg"
+		"bbsz.bmp"                                              2004-11-28     05:52:28         6254  ""                 "A"           "6b4cf0758f65ec1dbecbf3ec0e5e9057"      "d:\mywork\pb\会员管理\pic\bbsz.bmp"
+		"bbsz_d.bmp"                                            2004-11-28     05:52:10         6254  ""                 "A"           "04b7d73df54138537ce2ea2eaa4e2be9"      "d:\mywork\pb\会员管理\pic\bbsz_d.bmp"
+		"bbsz_m.bmp"                                            2004-11-28     05:51:52         6254  ""                 "A"           "07ddfe53038dd54eb3c978ecf4adb7ba"      "d:\mywork\pb\会员管理\pic\bbsz_m.bmp"
+		"bc.bmp"                                                2009-10-31     13:28:16         5754  ""                 "A"           "0829d555ea31e73143dead58ff325bd8"      "d:\mywork\pb\会员管理\pic\bc.bmp"
+		"bc_d.bmp"                                              2009-10-31     13:27:32         5754  ""                 "A"           "c1ec112ed4cdebba9b5b30744bcb0899"      "d:\mywork\pb\会员管理\pic\bc_d.bmp"
+		"bc_m.bmp"                                              2009-10-31     13:28:32         5754  ""                 "A"           "6c24c9bd2e2c0baafa2d9bdb4eefb1a5"      "d:\mywork\pb\会员管理\pic\bc_m.bmp"
+		"bf.bmp"                                                2009-10-26     09:44:50        20242  ""                 "A"           "67a7417e858b8cde74a74c311913a70c"      "d:\mywork\pb\会员管理\pic\bf.bmp"
+		"bf_d.bmp"                                              2009-10-26     09:45:30        20242  ""                 "A"           "aaceb1574c4eb3648581af24d58522cc"      "d:\mywork\pb\会员管理\pic\bf_d.bmp"
+		"bf_m.bmp"                                              2009-10-26     09:45:12        20242  ""                 "A"           "3e24a4fa981cf94b2813519bfb6a610e"      "d:\mywork\pb\会员管理\pic\bf_m.bmp"
+		"c.bmp"                                                 2009-11-04     09:38:28         5754  ""                 "A"           "0829d555ea31e73143dead58ff325bd8"      "d:\mywork\pb\会员管理\pic\c.bmp"
+		"c.jpg"                                                 2009-08-02     10:12:24         1797  ""                 "A"           "fd6bac20de2f48fca2f7b49951d22a55"      "d:\mywork\pb\会员管理\pic\c.jpg"
+		"c_d.bmp"                                               2009-11-04     09:38:12         5754  ""                 "A"           "c1ec112ed4cdebba9b5b30744bcb0899"      "d:\mywork\pb\会员管理\pic\c_d.bmp"
+		"c_m.bmp"                                               2009-11-04     09:37:50         5754  ""                 "A"           "6c24c9bd2e2c0baafa2d9bdb4eefb1a5"      "d:\mywork\pb\会员管理\pic\c_m.bmp"
+		"cjzp.bmp"                                              2009-10-31     14:55:18        89910  ""                 "A"           "ba177e78f2cbae6c3012b4802e84c297"      "d:\mywork\pb\会员管理\pic\cjzp.bmp"
+		"cx.bmp"                                                2009-10-27     14:11:52         5754  ""                 "A"           "38a80ac6f38d1836f1a89204efa03441"      "d:\mywork\pb\会员管理\pic\cx.bmp"
+		"cx_d.bmp"                                              2009-10-27     14:12:26         5754  ""                 "A"           "c6176d797dc18bb839af1fad268f5b2b"      "d:\mywork\pb\会员管理\pic\cx_d.bmp"
+		"cx_m.bmp"                                              2009-10-27     14:12:10         5754  ""                 "A"           "c91107cce8240d363c01d6d0ed7c1618"      "d:\mywork\pb\会员管理\pic\cx_m.bmp"
+		"czrz.bmp"                                              2009-10-27     13:54:40       123318  ""                 "A"           "be23acf312f8bee0746e65d5bfc93090"      "d:\mywork\pb\会员管理\pic\czrz.bmp"
+		"dcsj.bmp"                                              2010-03-08     14:32:06         7156  ""                 "A"           "03944400b4ed9fd9af7c968d4122b984"      "d:\mywork\pb\会员管理\pic\dcsj.bmp"
+		"dcsj_d.bmp"                                            2010-03-08     14:37:42         7156  ""                 "A"           "81e35631e0ff4a99764669e2b829c616"      "d:\mywork\pb\会员管理\pic\dcsj_d.bmp"
+		"dcsj_m.bmp"                                            2010-03-08     14:41:28         7156  ""                 "A"           "5183d2f9518b1850e3cfd919315100bf"      "d:\mywork\pb\会员管理\pic\dcsj_m.bmp"
+		"dian.bmp"                                              2009-10-27     14:06:20         2354  ""                 "A"           "1d6d575ab07ed2dab02eb91c7bba8052"      "d:\mywork\pb\会员管理\pic\dian.bmp"
+		"dian_d.bmp"                                            2009-10-27     14:06:08         2354  ""                 "A"           "dcf71e5c40e76d17d5989ce269d78b1d"      "d:\mywork\pb\会员管理\pic\dian_d.bmp"
+		"dian_m.bmp"                                            2009-10-27     14:05:44         2354  ""                 "A"           "67da43241f25e28bc6cf5c7bdbc9727b"      "d:\mywork\pb\会员管理\pic\dian_m.bmp"
+		"dl.bmp"                                                2009-10-28     14:40:02         5754  ""                 "A"           "23cdafb31c0f1c88ba4bf1a0b0594f7b"      "d:\mywork\pb\会员管理\pic\dl.bmp"
+		"dl_d.bmp"                                              2009-10-28     14:39:34         5754  ""                 "A"           "d27675c842e997dfbdba15d1beb697e9"      "d:\mywork\pb\会员管理\pic\dl_d.bmp"
+		"dl_m.bmp"                                              2009-10-28     14:39:10         5654  ""                 "A"           "155ecde7459734fff9e48329cede9131"      "d:\mywork\pb\会员管理\pic\dl_m.bmp"
+		"down.bmp"                                              2009-08-03     08:58:10        57256  ""                 "A"           "839b8619f85a8144a8ffdf63c6461e45"      "d:\mywork\pb\会员管理\pic\down.bmp"
+		"down1.bmp"                                             2009-08-03     08:57:36          484  ""                 "A"           "1c41e6d576314bf817fa386f73390ace"      "d:\mywork\pb\会员管理\pic\down1.bmp"
+		"down2.bmp"                                             2009-08-03     08:57:22         1624  ""                 "A"           "e0b4e1c17f58158fb1f91272e0a02ee2"      "d:\mywork\pb\会员管理\pic\down2.bmp"
+		"dy.bmp"                                                2004-11-28     02:07:48         5754  ""                 "A"           "5576100328494e39db01404aee3140f6"      "d:\mywork\pb\会员管理\pic\dy.bmp"
+		"dy_d.bmp"                                              2004-11-28     02:07:36         5754  ""                 "A"           "f5d975ca0a70f96fb5eb7ad57709a322"      "d:\mywork\pb\会员管理\pic\dy_d.bmp"
+		"dy_m.bmp"                                              2004-11-28     02:05:56         5754  ""                 "A"           "512af8ed8d0b4bab4f548b5134ff1cf4"      "d:\mywork\pb\会员管理\pic\dy_m.bmp"
+		"dyxp.bmp"                                              2004-11-29     04:44:12         5754  ""                 "A"           "fb6c78104d730c2a6438cb8060ff315b"      "d:\mywork\pb\会员管理\pic\dyxp.bmp"
+		"dyxp_d.bmp"                                            2004-11-29     04:44:36         5754  ""                 "A"           "be89d16d5069e22588de11c053ddf848"      "d:\mywork\pb\会员管理\pic\dyxp_d.bmp"
+		"dyxp_m.bmp"                                            2004-11-29     04:44:56         5754  ""                 "A"           "87b70b0ad90f490068d9178a60b69ffd"      "d:\mywork\pb\会员管理\pic\dyxp_m.bmp"
+		"gjcx.bmp"                                              2004-11-29     04:47:58         5754  ""                 "A"           "fb098b45fa4730323adb4fb32b7d3632"      "d:\mywork\pb\会员管理\pic\gjcx.bmp"
+		"gjcx_d.bmp"                                            2004-11-29     04:48:12         5754  ""                 "A"           "a9ab3443e40aa00c94b3b94ace6ba337"      "d:\mywork\pb\会员管理\pic\gjcx_d.bmp"
+		"gjcx_m.bmp"                                            2004-11-29     04:48:30         5754  ""                 "A"           "237188c3704d7b8c813f20d130fa29cf"      "d:\mywork\pb\会员管理\pic\gjcx_m.bmp"
+		"hb.bmp"                                                2009-10-28     10:43:00         6254  ""                 "A"           "65fb66f9a5d617372a011d74ac6e8f38"      "d:\mywork\pb\会员管理\pic\hb.bmp"
+		"hb_d.bmp"                                              2009-10-28     10:43:16         6254  ""                 "A"           "c6e7aa0e602eceab1b5e7d5a05d2082c"      "d:\mywork\pb\会员管理\pic\hb_d.bmp"
+		"hb_m.bmp"                                              2009-10-28     10:43:44         6254  ""                 "A"           "0925b79975a8e685297af9451353c729"      "d:\mywork\pb\会员管理\pic\hb_m.bmp"
+		"hei.bmp"                                               2009-10-12     08:30:44       231386  ""                 "A"           "fb2a6acc39114587cc4818c8f9b58c3e"      "d:\mywork\pb\会员管理\pic\hei.bmp"
+		"hyth.bmp"                                              2009-09-14     11:08:00       104566  ""                 "A"           "53197cae9d3a187718623d9d75b917d6"      "d:\mywork\pb\会员管理\pic\hyth.bmp"
+		"jb.bmp"                                                2009-10-28     11:16:02        87246  ""                 "A"           "5a32b3fc2b304e65ae75b253cfb97dd7"      "d:\mywork\pb\会员管理\pic\jb.bmp"
+		"kong.bmp"                                              2009-10-31     15:12:06       188214  ""                 "A"           "eef8cba5380c7416dc6f33725bfeb380"      "d:\mywork\pb\会员管理\pic\kong.bmp"
+		"ll.bmp"                                                2009-10-26     09:45:54         5754  ""                 "A"           "c9dcddf43ab9137e105004e623539b2c"      "d:\mywork\pb\会员管理\pic\ll.bmp"
+		"ll_d.bmp"                                              2009-10-26     09:46:28         5754  ""                 "A"           "9fb5bbadd77e9ef5e65e551bb4e6f6b4"      "d:\mywork\pb\会员管理\pic\ll_d.bmp"
+		"ll_m.bmp"                                              2009-10-26     09:46:08         5754  ""                 "A"           "b6f469452f37cd34349fc042f10f98c3"      "d:\mywork\pb\会员管理\pic\ll_m.bmp"
+		"login.bmp"                                             2009-10-31     11:02:18       379064  ""                 "A"           "8b016b34682f49a34dfae5ae8dcef5f4"      "d:\mywork\pb\会员管理\pic\login.bmp"
+		"qc.bmp"                                                2009-10-26     10:54:32         5754  ""                 "A"           "72f886b9f7e9d0a540450719ac6220a2"      "d:\mywork\pb\会员管理\pic\qc.bmp"
+		"qc_d.bmp"                                              2009-10-26     10:55:10         5754  ""                 "A"           "8561ab67edf91de090764e30d77a1ed4"      "d:\mywork\pb\会员管理\pic\qc_d.bmp"
+		"qc_m.bmp"                                              2009-10-26     10:54:48         5754  ""                 "A"           "b3ad05173213ae9e91b3465dd3d1b822"      "d:\mywork\pb\会员管理\pic\qc_m.bmp"
+		"qd.bmp"                                                2004-11-28     03:17:30         5754  ""                 "A"           "2935c2882f5dc72873beae7cad302dc5"      "d:\mywork\pb\会员管理\pic\qd.bmp"
+		"qd_d.bmp"                                              2009-11-08     16:45:32         5754  ""                 "A"           "1f51e5c512d06d09b769cda145289f59"      "d:\mywork\pb\会员管理\pic\qd_d.bmp"
+		"qd_m.bmp"                                              2009-11-08     16:45:16         5754  ""                 "A"           "061f85d583482cd821027f0186a69345"      "d:\mywork\pb\会员管理\pic\qd_m.bmp"
+		"queding.bmp"                                           2009-09-12     10:09:54         4374  ""                 "A"           "18086820e5e1783bbfdb3d13ac6a999f"      "d:\mywork\pb\会员管理\pic\queding.bmp"
+		"qx.bmp"                                                2009-10-28     14:41:20         5754  ""                 "A"           "ff2082ef8111c3e8bafff27ee9301926"      "d:\mywork\pb\会员管理\pic\qx.bmp"
+		"qx_d.bmp"                                              2009-10-28     14:41:02         5754  ""                 "A"           "23a7136a66f140a8f5cbc4ca47d27300"      "d:\mywork\pb\会员管理\pic\qx_d.bmp"
+		"qx_m.bmp"                                              2009-10-28     14:40:16         5754  ""                 "A"           "a80fd4320ba71c187c9f4ca092143158"      "d:\mywork\pb\会员管理\pic\qx_m.bmp"
+		"sc.bmp"                                                2009-10-27     14:13:14         5754  ""                 "A"           "3265397bf76d50461a5fc48c65b4940e"      "d:\mywork\pb\会员管理\pic\sc.bmp"
+		"sc_d.bmp"                                              2009-10-27     14:13:02         5754  ""                 "A"           "fb6f99dc933a3f7f1d4d9f1705a69949"      "d:\mywork\pb\会员管理\pic\sc_d.bmp"
+		"sc_m.bmp"                                              2009-10-27     14:12:42         5754  ""                 "A"           "62c10d952082c9c19d2c145872f231a9"      "d:\mywork\pb\会员管理\pic\sc_m.bmp"
+		"shu.bmp"                                               2019-11-03     14:51:30        12534  ""                 "A"           "9d70daa92fa647d268ad7d396777180e"      "d:\mywork\pb\会员管理\pic\shu.bmp"
+		"sjk.bmp"                                               2009-10-26     09:41:16       123510  ""                 "A"           "fab14484db64ba4cdccb7c3754e62706"      "d:\mywork\pb\会员管理\pic\sjk.bmp"
+		"sjkhf.bmp"                                             2009-10-26     10:36:00        20242  ""                 "A"           "c74bd1fa89d1f5e71e6dec451b7fef8c"      "d:\mywork\pb\会员管理\pic\sjkhf.bmp"
+		"sjkhf_d.bmp"                                           2009-10-26     10:36:22        20242  ""                 "A"           "bdffefecb096c57d2df5cf711eeecf01"      "d:\mywork\pb\会员管理\pic\sjkhf_d.bmp"
+		"sjkhf_m.bmp"                                           2009-10-26     10:35:40        20242  ""                 "A"           "b345b9d11067130b08be829b2c78a41a"      "d:\mywork\pb\会员管理\pic\sjkhf_m.bmp"
+		"spzs.bmp"                                              2010-03-08     14:18:14         5756  ""                 "A"           "071bf02fce9b5d17b0ea7e992b012e3b"      "d:\mywork\pb\会员管理\pic\spzs.bmp"
+		"spzs_d.bmp"                                            2010-03-08     14:19:26         5756  ""                 "A"           "c8073db4ee56ae7fcede286e715b3cea"      "d:\mywork\pb\会员管理\pic\spzs_d.bmp"
+		"spzs_m.bmp"                                            2010-03-08     14:20:32         5756  ""                 "A"           "57424027b4484d7bad6c292a00ac3690"      "d:\mywork\pb\会员管理\pic\spzs_m.bmp"
+		"tc.bmp"                                                2009-10-24     15:12:26         5754  ""                 "A"           "f6a9c794d39c345c09cdddefdfc85d0d"      "d:\mywork\pb\会员管理\pic\tc.bmp"
+		"tc_d.bmp"                                              2009-10-24     15:13:48         5754  ""                 "A"           "d00c2a552c4feca5f56aa4a799dc0ef6"      "d:\mywork\pb\会员管理\pic\tc_d.bmp"
+		"tc_m.bmp"                                              2009-10-28     16:44:52         5754  ""                 "A"           "58c42d16ec6f48c8b965906b75e0f67e"      "d:\mywork\pb\会员管理\pic\tc_m.bmp"
+		"tcu.bmp"                                               2009-10-28     10:40:58         5754  ""                 "A"           "f6a9c794d39c345c09cdddefdfc85d0d"      "d:\mywork\pb\会员管理\pic\tcu.bmp"
+		"tcu_d.bmp"                                             2009-10-28     10:40:24         5754  ""                 "A"           "815bbf1e04b8dde462e65fb46e079a04"      "d:\mywork\pb\会员管理\pic\tcu_d.bmp"
+		"tcu_m.bmp"                                             2009-10-28     10:41:16         5754  ""                 "A"           "58c42d16ec6f48c8b965906b75e0f67e"      "d:\mywork\pb\会员管理\pic\tcu_m.bmp"
+		"th.bmp"                                                2004-11-29     02:51:16         5754  ""                 "A"           "4e9497a75a600b39b8b056f5db852daf"      "d:\mywork\pb\会员管理\pic\th.bmp"
+		"th_d.bmp"                                              2004-11-29     02:51:36         5754  ""                 "A"           "5b1b698446feabf5a5d3827eb430ef70"      "d:\mywork\pb\会员管理\pic\th_d.bmp"
+		"th_m.bmp"                                              2004-11-29     02:50:56         5754  ""                 "A"           "6ed4e15d88758751165cdae54b786629"      "d:\mywork\pb\会员管理\pic\th_m.bmp"
+		"top.jpg"                                               2009-08-03     14:33:38        34844  ""                 "A"           "10ef03ed4da8fbee4477324e60656503"      "d:\mywork\pb\会员管理\pic\top.jpg"
+		"top1.bmp"                                              2009-08-04     08:12:32        16410  ""                 "A"           "99a521411a671ffdc514adab089ed31e"      "d:\mywork\pb\会员管理\pic\top1.bmp"
+		"top11.bmp"                                             2009-08-04     08:13:10        16410  ""                 "A"           "5366f67c38f1e3d526797a60e95a612d"      "d:\mywork\pb\会员管理\pic\top11.bmp"
+		"top12.bmp"                                             2009-08-03     10:51:40        16412  ""                 "A"           "f0e5540204def3ce63ec607f2aebba0c"      "d:\mywork\pb\会员管理\pic\top12.bmp"
+		"top2.bmp"                                              2009-08-04     08:15:30        16410  ""                 "A"           "9abcd719f04a25ac60dfb736f4b0ca4b"      "d:\mywork\pb\会员管理\pic\top2.bmp"
+		"top21.bmp"                                             2009-08-04     08:20:08        16412  ""                 "A"           "5faa1e09b24da51d7642ace516c1abb3"      "d:\mywork\pb\会员管理\pic\top21.bmp"
+		"top22.bmp"                                             2009-08-03     10:52:32        16412  ""                 "A"           "f8f515662fc164d05813272451381d89"      "d:\mywork\pb\会员管理\pic\top22.bmp"
+		"top3.bmp"                                              2009-08-04     08:21:48        16410  ""                 "A"           "3c6aa04b3a2767be25eeac1837454f1e"      "d:\mywork\pb\会员管理\pic\top3.bmp"
+		"top31.bmp"                                             2009-08-04     08:21:24        16410  ""                 "A"           "70c0fa956d118f0aa0211393360af912"      "d:\mywork\pb\会员管理\pic\top31.bmp"
+		"top32.bmp"                                             2009-08-03     10:52:22        16412  ""                 "A"           "a969b0d3926a1a0e99124983130a1591"      "d:\mywork\pb\会员管理\pic\top32.bmp"
+		"top4.bmp"                                              2009-08-04     07:46:50        16410  ""                 "A"           "0e9fd2b2730e51038c3826282d953e57"      "d:\mywork\pb\会员管理\pic\top4.bmp"
+		"top41.bmp"                                             2009-08-04     07:44:50        16412  ""                 "A"           "1d78cbf34d0c6a7b07edeb22613ffbce"      "d:\mywork\pb\会员管理\pic\top41.bmp"
+		"top42.bmp"                                             2009-08-03     10:52:56        16412  ""                 "A"           "bc5ca27c70d103605d5b7a729645bbb5"      "d:\mywork\pb\会员管理\pic\top42.bmp"
+		"top5.bmp"                                              2009-08-04     08:25:04        16410  ""                 "A"           "5fac9cb52d98b6b7064fa0137c5a7226"      "d:\mywork\pb\会员管理\pic\top5.bmp"
+		"top51.bmp"                                             2009-08-04     08:27:08        16412  ""                 "A"           "e2fcee45347963454fc1292a55924ed7"      "d:\mywork\pb\会员管理\pic\top51.bmp"
+		"top52.bmp"                                             2009-08-03     10:52:04        16412  ""                 "A"           "e25900ed6cf49c320c81d57f85b94612"      "d:\mywork\pb\会员管理\pic\top52.bmp"
+		"top6.bmp"                                              2009-08-04     08:28:14        16410  ""                 "A"           "2144a20f007a6115c7abbb16e7083b0d"      "d:\mywork\pb\会员管理\pic\top6.bmp"
+		"top60.bmp"                                             2010-10-13     14:16:06        16412  ""                 "A"           "66f1dea2dcb7b76b3c19c4436047244e"      "d:\mywork\pb\会员管理\pic\top60.bmp"
+		"top61.bmp"                                             2009-08-04     08:29:46        16412  ""                 "A"           "2e475c42d1c3fea323a71cb2d38993ae"      "d:\mywork\pb\会员管理\pic\top61.bmp"
+		"top62.bmp"                                             2009-08-03     10:51:16        16412  ""                 "A"           "0cf70d3f3c3bdc5fd65da23f8960a7c5"      "d:\mywork\pb\会员管理\pic\top62.bmp"
+		"top7.bmp"                                              2009-08-04     08:30:48        16410  ""                 "A"           "9af8bae93977419c252c71a19c04466b"      "d:\mywork\pb\会员管理\pic\top7.bmp"
+		"top71.bmp"                                             2009-08-04     08:32:08        16412  ""                 "A"           "0534d25c7f4fcba0981eee2741db9db4"      "d:\mywork\pb\会员管理\pic\top71.bmp"
+		"top72.bmp"                                             2009-08-03     10:52:44        16412  ""                 "A"           "971d49d2c75d58b76c2f447f9e0dabd4"      "d:\mywork\pb\会员管理\pic\top72.bmp"
+		"toprghit.jpg"                                          2009-08-02     14:44:04          738  ""                 "A"           "47f8391b76494723cbad3a959c0f77fd"      "d:\mywork\pb\会员管理\pic\toprghit.jpg"
+		"topright.bmp"                                          2009-08-02     16:46:12        13494  ""                 "A"           "d49346019fefda43e7b5a8c84e45b2dd"      "d:\mywork\pb\会员管理\pic\topright.bmp"
+		"xg.bmp"                                                2009-10-24     15:12:08         5754  ""                 "A"           "1c508a68512c1bddb6537d76b38bef8f"      "d:\mywork\pb\会员管理\pic\xg.bmp"
+		"xg_d.bmp"                                              2009-10-24     15:13:26         5754  ""                 "A"           "d6edb8aca4f37941bd05250321934216"      "d:\mywork\pb\会员管理\pic\xg_d.bmp"
+		"xg_m.bmp"                                              2009-10-28     16:44:34         5754  ""                 "A"           "24e55d7f584db0b059c859430492abae"      "d:\mywork\pb\会员管理\pic\xg_m.bmp"
+		"xgmm.bmp"                                              2009-10-24     15:03:56        38414  ""                 "A"           "c8b157a222f1512319d0c353d42b9a4c"      "d:\mywork\pb\会员管理\pic\xgmm.bmp"
+		"xssptj.bmp"                                            2009-10-24     16:14:38       114714  ""                 "A"           "ec12fe44df27d6ad664da0d280ac3144"      "d:\mywork\pb\会员管理\pic\xssptj.bmp"
+		"xtcssz.bmp"                                            2009-10-28     10:20:50       123318  ""                 "A"           "a3abbd862740966752fcf953e525b300"      "d:\mywork\pb\会员管理\pic\xtcssz.bmp"
+		"you.bmp"                                               2004-11-28     05:31:44         2550  ""                 "A"           "e6fbf26eef60a54248ad9af1a04feead"      "d:\mywork\pb\会员管理\pic\you.bmp"
+		"you_d.bmp"                                             2004-11-28     05:33:12         2550  ""                 "A"           "ae4b7712076e58fbe93662ee960dbcef"      "d:\mywork\pb\会员管理\pic\you_d.bmp"
+		"you_m.bmp"                                             2004-11-28     05:32:54         2550  ""                 "A"           "41916353303abcd79ef4a40d1395878f"      "d:\mywork\pb\会员管理\pic\you_m.bmp"
+		"zc.bmp"                                                2010-10-13     14:19:52        16412  ""                 "A"           "7d27f96a7065afa0798758b454cce702"      "d:\mywork\pb\会员管理\pic\zc.bmp"
+		"zc_d.bmp"                                              2010-10-13     14:20:32        16412  ""                 "A"           "af1de64993d3acbafddaf5fc50ddb56d"      "d:\mywork\pb\会员管理\pic\zc_d.bmp"
+		"zc_m.bmp"                                              2010-10-13     14:16:06        16412  ""                 "A"           "66f1dea2dcb7b76b3c19c4436047244e"      "d:\mywork\pb\会员管理\pic\zc_m.bmp"
+		"zhaoling.bmp"                                          2009-09-12     10:10:12        71434  ""                 "A"           "24ff4feff98b5e23977a94d702f3fab2"      "d:\mywork\pb\会员管理\pic\zhaoling.bmp"
+		"zuo.bmp"                                               2004-11-28     05:32:04         2550  ""                 "A"           "2bbc35d61aa8622a94af8794678e7475"      "d:\mywork\pb\会员管理\pic\zuo.bmp"
+		"zuo_d.bmp"                                             2004-11-28     05:33:38         2550  ""                 "A"           "ea455888c24eb98775e9fa0c19cb714d"      "d:\mywork\pb\会员管理\pic\zuo_d.bmp"
+		"zuo_m.bmp"                                             2004-11-28     05:33:26         2550  ""                 "A"           "d0a8ae24603901ddad434cdc48e3b281"      "d:\mywork\pb\会员管理\pic\zuo_m.bmp"
+		"a\11.jpg"                                              2009-08-02     09:01:02         2143  ""                 "A"           "c42f86c1f898eb992b76f135362ac85b"      "d:\mywork\pb\会员管理\pic\a\11.jpg"
+		"a\12.jpg"                                              2009-08-02     09:01:32         2151  ""                 "A"           "83d50d880a409ea4935390a4cab6b134"      "d:\mywork\pb\会员管理\pic\a\12.jpg"
+		"a\13.jpg"                                              2009-08-02     09:11:46        13116  ""                 "A"           "e88e4957cf64a3979a56e0cf6341bde8"      "d:\mywork\pb\会员管理\pic\a\13.jpg"
+		"a\21.jpg"                                              2009-08-02     09:18:58         2150  ""                 "A"           "550b8780f1b4375e4a65915e487d9c76"      "d:\mywork\pb\会员管理\pic\a\21.jpg"
+		"a\22.jpg"                                              2009-08-02     09:17:46         2152  ""                 "A"           "acd8e1da0907f738b4fe3c935bd540f7"      "d:\mywork\pb\会员管理\pic\a\22.jpg"
+		"a\23.jpg"                                              2009-08-02     09:21:26        13228  ""                 "A"           "16e0e6c0b006fc980d6a12bf405e2f92"      "d:\mywork\pb\会员管理\pic\a\23.jpg"
+		"a\31.jpg"                                              2009-08-02     09:30:50        14036  ""                 "A"           "44f477dc84ba4ef55f373b159f9ae45a"      "d:\mywork\pb\会员管理\pic\a\31.jpg"
+		"a\32.jpg"                                              2009-08-02     09:39:54        14519  ""                 "A"           "45bc898060365af5242f1bf43f23eb43"      "d:\mywork\pb\会员管理\pic\a\32.jpg"
+		"a\33.jpg"                                              2009-08-02     09:32:14        13205  ""                 "A"           "f5624c25b806b93757c543d14a9a206d"      "d:\mywork\pb\会员管理\pic\a\33.jpg"
+		"a\41.jpg"                                              2009-08-02     10:03:16         2114  ""                 "A"           "e375e945e0cc23495a00115d4a092fea"      "d:\mywork\pb\会员管理\pic\a\41.jpg"
+		"a\42.jpg"                                              2009-08-02     10:03:36         2101  ""                 "A"           "77e72644a3d04ed6c1743a33f63b5a1b"      "d:\mywork\pb\会员管理\pic\a\42.jpg"
+		"a\43.jpg"                                              2009-08-02     10:04:56        13029  ""                 "A"           "9f64c2eff2b574d165170282d580482f"      "d:\mywork\pb\会员管理\pic\a\43.jpg"
+		"a\51.jpg"                                              2009-08-02     10:06:46         1976  ""                 "A"           "b861217947839e9ad938fdb5a45ecc66"      "d:\mywork\pb\会员管理\pic\a\51.jpg"
+		"a\52.jpg"                                              2009-08-02     10:07:08         1943  ""                 "A"           "1ed2a74da505e0f4c9cc75875b503503"      "d:\mywork\pb\会员管理\pic\a\52.jpg"
+		"a\53.jpg"                                              2009-08-02     10:08:48        12660  ""                 "A"           "1b44d831bd19196ac6cfc04fc9aa5412"      "d:\mywork\pb\会员管理\pic\a\53.jpg"
+		"b\11.jpg"                                              2009-08-02     15:37:50         2164  ""                 "A"           "1705d2864eb1b831c0e5e738f66f9993"      "d:\mywork\pb\会员管理\pic\b\11.jpg"
+		"b\12.jpg"                                              2009-08-02     15:38:10         2172  ""                 "A"           "e8be3d51a56583d4c483aca89cf09350"      "d:\mywork\pb\会员管理\pic\b\12.jpg"
+		"b\13.jpg"                                              2009-08-02     15:38:52        13241  ""                 "A"           "129858831ab3404d46e813d862a17976"      "d:\mywork\pb\会员管理\pic\b\13.jpg"
+		"b\21.jpg"                                              2009-08-02     15:56:26        14222  ""                 "A"           "c026a2ef60cc1a3090be4430bd85f21e"      "d:\mywork\pb\会员管理\pic\b\21.jpg"
+		"b\22.jpg"                                              2009-08-02     15:55:30         2212  ""                 "A"           "0bee4dbe1329ca9dc3ed918e04dbac2f"      "d:\mywork\pb\会员管理\pic\b\22.jpg"
+		"b\23.jpg"                                              2009-08-02     15:56:12        13728  ""                 "A"           "72a608a7e78a243e504b9eb22ee43216"      "d:\mywork\pb\会员管理\pic\b\23.jpg"
+		"b\31.jpg"                                              2009-08-02     15:57:00         2203  ""                 "A"           "66d97e1e4128f0a7b3fc411fbff4deff"      "d:\mywork\pb\会员管理\pic\b\31.jpg"
+		"b\32.jpg"                                              2009-08-02     15:57:20         2216  ""                 "A"           "de2473375e013f30f1bc99c375f80729"      "d:\mywork\pb\会员管理\pic\b\32.jpg"
+		"b\33.jpg"                                              2009-08-02     15:57:56        13396  ""                 "A"           "1f1b0579b590b81e53600b639086a2c0"      "d:\mywork\pb\会员管理\pic\b\33.jpg"
+		"b\41.jpg"                                              2009-08-02     15:58:20         2156  ""                 "A"           "3d9f1748cead96ce7d3f2d8844153209"      "d:\mywork\pb\会员管理\pic\b\41.jpg"
+		"b\42.jpg"                                              2009-08-02     15:58:36         2118  ""                 "A"           "1022a988af8cb66dc9d89e88fdfc19e6"      "d:\mywork\pb\会员管理\pic\b\42.jpg"
+		"b\43.jpg"                                              2009-08-02     15:59:10        13222  ""                 "A"           "d6b796f1d19514c0c1b3971581aca2d2"      "d:\mywork\pb\会员管理\pic\b\43.jpg"
+		"b\51.jpg"                                              2009-08-02     15:59:34         2158  ""                 "A"           "6e093b5c15ee854cb5289bbd83848280"      "d:\mywork\pb\会员管理\pic\b\51.jpg"
+		"b\52.jpg"                                              2009-08-02     15:59:52         2189  ""                 "A"           "5e3b8c49c9a74477e387d2188583bfe6"      "d:\mywork\pb\会员管理\pic\b\52.jpg"
+		"b\53.jpg"                                              2009-08-02     16:00:22        13215  ""                 "A"           "30e3566bd2997d5bb48ad0525bcef41e"      "d:\mywork\pb\会员管理\pic\b\53.jpg"
+		"c\11.jpg"                                              2009-08-02     16:12:04         1960  ""                 "A"           "70d709ed72ee352dc31a70593b27517b"      "d:\mywork\pb\会员管理\pic\c\11.jpg"
+		"c\12.jpg"                                              2009-08-02     16:12:20         2009  ""                 "A"           "18678bbd7e0bc461ded00bbe59e1161f"      "d:\mywork\pb\会员管理\pic\c\12.jpg"
+		"c\13.jpg"                                              2009-08-02     16:13:02        12710  ""                 "A"           "f0956df8788791a259ea6a1cd407a1bc"      "d:\mywork\pb\会员管理\pic\c\13.jpg"
+		"c\21.jpg"                                              2009-08-02     16:13:30         2093  ""                 "A"           "d5227f25fb4a686373f5fe925f01aeec"      "d:\mywork\pb\会员管理\pic\c\21.jpg"
+		"c\22.jpg"                                              2009-08-02     16:13:48         2110  ""                 "A"           "93530344b760c4c4c9243aee5e956809"      "d:\mywork\pb\会员管理\pic\c\22.jpg"
+		"c\23.jpg"                                              2009-08-02     16:15:04        13030  ""                 "A"           "d46bd01c371c6f534c54842163b1b3e8"      "d:\mywork\pb\会员管理\pic\c\23.jpg"
+		"dyyl\cy.bmp"                                           2010-04-05     08:31:02         6102  ""                 "A"           "cd1011d1ca90f09fa31b30a4fc55f37a"      "d:\mywork\pb\会员管理\pic\dyyl\cy.bmp"
+		"dyyl\cy_d.bmp"                                         2010-04-05     08:30:14         6102  ""                 "A"           "112642877d449715026b95881e32ecc5"      "d:\mywork\pb\会员管理\pic\dyyl\cy_d.bmp"
+		"dyyl\down.bmp"                                         2004-11-28     01:10:04        61494  ""                 "A"           "1a99f292584ef530686ca69cea39188a"      "d:\mywork\pb\会员管理\pic\dyyl\down.bmp"
+		"dyyl\dy.bmp"                                           2004-11-28     00:25:04         6102  ""                 "A"           "1df75e55babfdef57d279d9be661bc99"      "d:\mywork\pb\会员管理\pic\dyyl\dy.bmp"
+		"dyyl\dy_d.bmp"                                         2004-11-28     00:24:36         6102  ""                 "A"           "c573e8d969d34b7ae5d3b6af7833cea9"      "d:\mywork\pb\会员管理\pic\dyyl\dy_d.bmp"
+		"dyyl\dy_m.bmp"                                         2004-11-28     00:24:02         6102  ""                 "A"           "89d30fab388af9d8fb3585931c460540"      "d:\mywork\pb\会员管理\pic\dyyl\dy_m.bmp"
+		"dyyl\fd.bmp"                                           2010-04-04     17:09:12         6102  ""                 "A"           "f68f7ec6c04467dd3304a3ecaa9fa265"      "d:\mywork\pb\会员管理\pic\dyyl\fd.bmp"
+		"dyyl\fd_d.bmp"                                         2010-04-04     17:07:58         6102  ""                 "A"           "efbcc70ab7c1e0bb07f5bf78b5710c63"      "d:\mywork\pb\会员管理\pic\dyyl\fd_d.bmp"
+		"dyyl\gb.bmp"                                           2004-11-28     00:25:28         7398  ""                 "A"           "eabff21304a757fe8c2bacf188a446fe"      "d:\mywork\pb\会员管理\pic\dyyl\gb.bmp"
+		"dyyl\gb_d.bmp"                                         2004-11-28     00:25:48         7398  ""                 "A"           "2386b11defb7dcef26cbcc1feea54547"      "d:\mywork\pb\会员管理\pic\dyyl\gb_d.bmp"
+		"dyyl\hx.bmp"                                           2010-04-04     16:55:56         6450  ""                 "A"           "e1b99c7427e8bc3fd008080e8b485d50"      "d:\mywork\pb\会员管理\pic\dyyl\hx.bmp"
+		"dyyl\my.bmp"                                           2010-04-05     08:32:32         6102  ""                 "A"           "57d7007d3743f399cf335c274ba28860"      "d:\mywork\pb\会员管理\pic\dyyl\my.bmp"
+		"dyyl\my_d.bmp"                                         2010-04-05     08:32:04         6102  ""                 "A"           "d909d4a286166838970a477a770828b4"      "d:\mywork\pb\会员管理\pic\dyyl\my_d.bmp"
+		"dyyl\qy.bmp"                                           2010-04-05     08:28:30         6102  ""                 "A"           "952562fb02549b7c3cd4ddc89936c4c8"      "d:\mywork\pb\会员管理\pic\dyyl\qy.bmp"
+		"dyyl\qy_d.bmp"                                         2010-04-05     08:26:54         6102  ""                 "A"           "c5b90011a9810f601487dbb289fb9f8f"      "d:\mywork\pb\会员管理\pic\dyyl\qy_d.bmp"
+		"dyyl\sx.bmp"                                           2010-04-04     17:09:42         6102  ""                 "A"           "f2ec2210972c417b2fc1c2375642f5a7"      "d:\mywork\pb\会员管理\pic\dyyl\sx.bmp"
+		"dyyl\sx_d.bmp"                                         2010-04-04     17:08:46         6102  ""                 "A"           "54f0ff2ccfa9a327f3ccb81a8add9666"      "d:\mywork\pb\会员管理\pic\dyyl\sx_d.bmp"
+		"dyyl\sy.bmp"                                           2010-04-05     08:28:00         6102  ""                 "A"           "84885da814e281246254afe411d0e17c"      "d:\mywork\pb\会员管理\pic\dyyl\sy.bmp"
+		"dyyl\sy_d.bmp"                                         2010-04-05     08:27:30         6102  ""                 "A"           "bc6dcb57fbd6d678e1757edadb2b9622"      "d:\mywork\pb\会员管理\pic\dyyl\sy_d.bmp"
+		"dyyl\tou.bmp"                                          2004-11-28     00:56:38       141366  ""                 "A"           "001b1ef14215fbed4a1ccf92e3128df5"      "d:\mywork\pb\会员管理\pic\dyyl\tou.bmp"
+		"dyyl\ymsz.bmp"                                         2004-11-28     00:27:38         6102  ""                 "A"           "d69f5db8ee45b4a3a6e95f4ab26c65b8"      "d:\mywork\pb\会员管理\pic\dyyl\ymsz.bmp"
+		"dyyl\ymsz_d.bmp"                                       2004-11-28     00:27:04         6102  ""                 "A"           "4b570b6d48f0053ce84387a167a8f5c5"      "d:\mywork\pb\会员管理\pic\dyyl\ymsz_d.bmp"
+		"dyyl\ymsz_m.bmp"                                       2004-11-28     00:26:16         6102  ""                 "A"           "0c6478a963d8062f044c3481a79febba"      "d:\mywork\pb\会员管理\pic\dyyl\ymsz_m.bmp"
+		"dyyl\zx.bmp"                                           2010-04-04     16:55:30         6450  ""                 "A"           "ba71b1107a6e32e257755fc8198ff7a3"      "d:\mywork\pb\会员管理\pic\dyyl\zx.bmp"
+		"hygl\bc.bmp"                                           2010-03-05     13:26:54         5754  ""                 "A"           "056356320ce6efa05dbd0dc8727e140d"      "d:\mywork\pb\会员管理\pic\hygl\bc.bmp"
+		"hygl\bc_d.bmp"                                         2010-03-05     13:27:20         5754  ""                 "A"           "a3524b472d12c6447219c0e5e47c7412"      "d:\mywork\pb\会员管理\pic\hygl\bc_d.bmp"
+		"hygl\bc_m.bmp"                                         2010-03-05     13:26:44         5754  ""                 "A"           "29306ba92a53c2de24a28a221758eeec"      "d:\mywork\pb\会员管理\pic\hygl\bc_m.bmp"
+		"hygl\bk.jpg"                                           2008-12-29     18:19:42        22390  ""                 "A"           "2f70b10e1b4ec8602786b559765a0e8d"      "d:\mywork\pb\会员管理\pic\hygl\bk.jpg"
+		"hygl\chazhao.bmp"                                      2010-03-05     13:25:22         4354  ""                 "A"           "8a4f1d86dd9bbc34f3f8523516957373"      "d:\mywork\pb\会员管理\pic\hygl\chazhao.bmp"
+		"hygl\chazhao_d.bmp"                                    2010-03-05     13:25:36         4354  ""                 "A"           "a3b07ca8ec35aa26bb3e1a2f9369b6dd"      "d:\mywork\pb\会员管理\pic\hygl\chazhao_d.bmp"
+		"hygl\chazhao_m.bmp"                                    2010-03-05     13:25:04         4354  ""                 "A"           "53bb0b8b56e1038eed9588220e72acf8"      "d:\mywork\pb\会员管理\pic\hygl\chazhao_m.bmp"
+		"hygl\cz.bmp"                                           2010-03-05     13:24:08         5454  ""                 "A"           "029fcb083773b59714bce3c29ee8b984"      "d:\mywork\pb\会员管理\pic\hygl\cz.bmp"
+		"hygl\cz_d.bmp"                                         2010-03-05     13:24:26         5454  ""                 "A"           "2646e2fb2c06b15925874a145cdf3658"      "d:\mywork\pb\会员管理\pic\hygl\cz_d.bmp"
+		"hygl\cz_m.bmp"                                         2010-03-05     13:23:52         5454  ""                 "A"           "cc868edfc5c25575a819116483c3fdee"      "d:\mywork\pb\会员管理\pic\hygl\cz_m.bmp"
+		"hygl\default.jpg"                                      2008-12-29     18:20:08        22911  ""                 "A"           "e2af26dc9c4e5cae4395eaef0a96a171"      "d:\mywork\pb\会员管理\pic\hygl\default.jpg"
+		"hygl\gs.bmp"                                           2010-03-05     13:17:28         6354  ""                 "A"           "06b42fb88cd8cdcd473baf46ec1336ff"      "d:\mywork\pb\会员管理\pic\hygl\gs.bmp"
+		"hygl\gs_d.bmp"                                         2010-03-05     13:17:44         6354  ""                 "A"           "a3afe44552701dfdf1e41591b9165201"      "d:\mywork\pb\会员管理\pic\hygl\gs_d.bmp"
+		"hygl\gs_h.bmp"                                         2010-03-05     13:22:40         5758  ""                 "A"           "388b6625baaa0da15b5ed14dcaf34f3e"      "d:\mywork\pb\会员管理\pic\hygl\gs_h.bmp"
+		"hygl\gs_m.bmp"                                         2010-03-05     13:17:12         6354  ""                 "A"           "5436a5ccf14a9abb0122f4636237b227"      "d:\mywork\pb\会员管理\pic\hygl\gs_m.bmp"
+		"hygl\huiyuan_chazhao.bmp"                              2009-08-07     14:48:28        39862  ""                 "A"           "c73d8bd7a9771d85983e99d8b7bcb577"      "d:\mywork\pb\会员管理\pic\hygl\huiyuan_chazhao.bmp"
+		"hygl\hycz.bmp"                                         2010-03-05     13:13:10         6354  ""                 "A"           "b371871efae74e9264c818f0425f07e2"      "d:\mywork\pb\会员管理\pic\hygl\hycz.bmp"
+		"hygl\hycz_d.bmp"                                       2010-03-05     13:13:24         6354  ""                 "A"           "292b5dc7f22860d9d0e36afbca077344"      "d:\mywork\pb\会员管理\pic\hygl\hycz_d.bmp"
+		"hygl\hycz_m.bmp"                                       2010-03-05     13:12:52         6354  ""                 "A"           "a4fa56dec646e9c0ee978b9470240dc3"      "d:\mywork\pb\会员管理\pic\hygl\hycz_m.bmp"
+		"hygl\hygl.bmp"                                         2009-08-10     15:39:44       123510  ""                 "A"           "a7527a450eba0e973dffc8043550765f"      "d:\mywork\pb\会员管理\pic\hygl\hygl.bmp"
+		"hygl\hygl0.bmp"                                        2009-08-06     09:21:00        15470  ""                 "A"           "8d4a782c1aa8b4a06592fcf7606dfb71"      "d:\mywork\pb\会员管理\pic\hygl\hygl0.bmp"
+		"hygl\hygl_chongzhi.bmp"                                2009-08-14     15:33:18        70178  ""                 "A"           "2f04252cd45d5bd32c9e948e9217245a"      "d:\mywork\pb\会员管理\pic\hygl\hygl_chongzhi.bmp"
+		"hygl\hygl_huanka.bmp"                                  2009-08-17     08:39:24        64350  ""                 "A"           "c98a1c7b902d689fad85e53bcf1e1c62"      "d:\mywork\pb\会员管理\pic\hygl\hygl_huanka.bmp"
+		"hygl\hygl_zhuanzhang.bmp"                              2009-08-17     15:26:16        71494  ""                 "A"           "e50838ae1473448606bbdc7a7e5cc14e"      "d:\mywork\pb\会员管理\pic\hygl\hygl_zhuanzhang.bmp"
+		"hygl\hygl_zkcz.bmp"                                    2009-08-18     08:51:38        63222  ""                 "A"           "016f232d44b951154ced39cef101cc93"      "d:\mywork\pb\会员管理\pic\hygl\hygl_zkcz.bmp"
+		"hygl\hyhk.bmp"                                         2010-03-05     13:18:20         6354  ""                 "A"           "efd1dd9dc1819c7355043582eea57aae"      "d:\mywork\pb\会员管理\pic\hygl\hyhk.bmp"
+		"hygl\hyhk_d.bmp"                                       2010-03-05     13:18:34         6354  ""                 "A"           "16e8e72c0bcd4f9ff7c4d0f3f80bd23c"      "d:\mywork\pb\会员管理\pic\hygl\hyhk_d.bmp"
+		"hygl\hyhk_m.bmp"                                       2010-03-05     13:18:04         6354  ""                 "A"           "1e1a4e42f5e1c37651be396c5a956270"      "d:\mywork\pb\会员管理\pic\hygl\hyhk_m.bmp"
+		"hygl\hyxxgl.bmp"                                       2009-08-06     14:07:36        94430  ""                 "A"           "b2f0a969a96795fad22df37b2af0ccfa"      "d:\mywork\pb\会员管理\pic\hygl\hyxxgl.bmp"
+		"hygl\kjzz.bmp"                                         2010-03-05     13:19:30         6354  ""                 "A"           "88679b885ed000f4e2b721f46f951ec6"      "d:\mywork\pb\会员管理\pic\hygl\kjzz.bmp"
+		"hygl\kjzz_d.bmp"                                       2010-03-05     13:19:00         6354  ""                 "A"           "cbc938431ff884a1c2c77eb23eeca1bb"      "d:\mywork\pb\会员管理\pic\hygl\kjzz_d.bmp"
+		"hygl\kjzz_h.bmp"                                       2010-03-05     13:21:36         5758  ""                 "A"           "9cbb0d18512e1505f099234b8e156430"      "d:\mywork\pb\会员管理\pic\hygl\kjzz_h.bmp"
+		"hygl\kjzz_m.bmp"                                       2010-03-05     13:18:48         6354  ""                 "A"           "f49b757f162feb5d027789445ee44ddf"      "d:\mywork\pb\会员管理\pic\hygl\kjzz_m.bmp"
+		"hygl\qc.bmp"                                           2010-03-05     13:26:04         4354  ""                 "A"           "6b1ddc2c0c27760afe4b2818b2f6d4ab"      "d:\mywork\pb\会员管理\pic\hygl\qc.bmp"
+		"hygl\qc_d.bmp"                                         2010-03-05     13:26:20         4354  ""                 "A"           "d7588d64de759b2b571bf0d1ef8c79a3"      "d:\mywork\pb\会员管理\pic\hygl\qc_d.bmp"
+		"hygl\qc_m.bmp"                                         2010-03-05     13:25:52         4354  ""                 "A"           "ec6fdb3db24d357af8863cfeda6ad30a"      "d:\mywork\pb\会员管理\pic\hygl\qc_m.bmp"
+		"hygl\qxgs.bmp"                                         2010-03-05     13:23:14         6354  ""                 "A"           "525eeb2bd381605c4a9e505f3098188a"      "d:\mywork\pb\会员管理\pic\hygl\qxgs.bmp"
+		"hygl\qxgs_d.bmp"                                       2010-03-05     13:23:30         6354  ""                 "A"           "f23993ea399ba78d50d6f0dea4a4d46c"      "d:\mywork\pb\会员管理\pic\hygl\qxgs_d.bmp"
+		"hygl\qxgs_h.bmp"                                       2010-03-05     13:21:14         5758  ""                 "A"           "b46b79f56cec633cc807727c9ad1d546"      "d:\mywork\pb\会员管理\pic\hygl\qxgs_h.bmp"
+		"hygl\qxgs_m.bmp"                                       2010-03-05     13:23:00         6354  ""                 "A"           "c5548c9cbe746cc24157d8ed07788157"      "d:\mywork\pb\会员管理\pic\hygl\qxgs_m.bmp"
+		"hygl\schy.bmp"                                         2010-03-05     13:16:58         6354  ""                 "A"           "5cb58bf14c48ce9af611ac2b45993c0c"      "d:\mywork\pb\会员管理\pic\hygl\schy.bmp"
+		"hygl\schy_d.bmp"                                       2010-03-05     13:15:36         6354  ""                 "A"           "11245ef36b31609b0e0737a3869ebfba"      "d:\mywork\pb\会员管理\pic\hygl\schy_d.bmp"
+		"hygl\schy_m.bmp"                                       2010-03-05     13:15:12         6354  ""                 "A"           "cdf9c42d672182d5356180bfda380040"      "d:\mywork\pb\会员管理\pic\hygl\schy_m.bmp"
+		"hygl\tjhy.bmp"                                         2010-03-05     13:14:28         6354  ""                 "A"           "62f0cfb8dceb2ffab96400f955fc266c"      "d:\mywork\pb\会员管理\pic\hygl\tjhy.bmp"
+		"hygl\tjhy_d.bmp"                                       2010-03-05     13:14:04         6354  ""                 "A"           "f6c009ddda5343eb7fc2eb8c12d1c6ea"      "d:\mywork\pb\会员管理\pic\hygl\tjhy_d.bmp"
+		"hygl\tjhy_m.bmp"                                       2010-03-05     13:13:42         6354  ""                 "A"           "2da6ef01be954ff8979befa19ab83042"      "d:\mywork\pb\会员管理\pic\hygl\tjhy_m.bmp"
+		"hygl\xgxx.bmp"                                         2010-03-05     13:16:06         6354  ""                 "A"           "b7f50b9e9b04dcc1fe8331432945f3c8"      "d:\mywork\pb\会员管理\pic\hygl\xgxx.bmp"
+		"hygl\xgxx_d.bmp"                                       2010-03-05     13:16:24         6354  ""                 "A"           "8cdc59084f12c7297b299907bbfd9ff7"      "d:\mywork\pb\会员管理\pic\hygl\xgxx_d.bmp"
+		"hygl\xgxx_m.bmp"                                       2010-03-05     13:15:52         6354  ""                 "A"           "58f076d5a4a161c87690c6ab6e916880"      "d:\mywork\pb\会员管理\pic\hygl\xgxx_m.bmp"
+		"hyksz\adim.ico"                                        2005-05-31     09:50:40        13430  ""                 "A"           "dc3b9268d23b79aa5d7450beff27b53a"      "d:\mywork\pb\会员管理\pic\hyksz\adim.ico"
+		"hyksz\baocun.bmp"                                      2009-08-05     16:57:28         4506  ""                 "A"           "254325c704d62eb680d834bd378370b6"      "d:\mywork\pb\会员管理\pic\hyksz\baocun.bmp"
+		"hyksz\baocun.jpg"                                      2009-08-03     09:37:46         1344  ""                 "A"           "73ae6e6fd1d83489c53118cce7d6294c"      "d:\mywork\pb\会员管理\pic\hyksz\baocun.jpg"
+		"hyksz\bianji.bmp"                                      2009-08-05     16:55:58         4506  ""                 "A"           "2f349d0ee4a5ee039dc7e5666546e19c"      "d:\mywork\pb\会员管理\pic\hyksz\bianji.bmp"
+		"hyksz\bianji.jpg"                                      2009-08-03     09:36:42         1321  ""                 "A"           "25cdec5086f1c09b426f508b21049525"      "d:\mywork\pb\会员管理\pic\hyksz\bianji.jpg"
+		"hyksz\hyklxsz.bmp"                                     2009-08-03     09:09:08       123510  ""                 "A"           "0155ea10986664e7c280e9791781d631"      "d:\mywork\pb\会员管理\pic\hyksz\hyklxsz.bmp"
+		"hyksz\hyklxsz0.bmp"                                    2009-08-04     17:09:58         9642  ""                 "A"           "b02bb9301a3121401cc8c9d4c7918130"      "d:\mywork\pb\会员管理\pic\hyksz\hyklxsz0.bmp"
+		"hyksz\jia.jpg"                                         2009-08-03     09:39:28         1286  ""                 "A"           "3e34cb17bf0b68195ec72771ba0a3d9d"      "d:\mywork\pb\会员管理\pic\hyksz\jia.jpg"
+		"hyksz\quxiao.bmp"                                      2009-08-05     16:58:04         4590  ""                 "A"           "adec0b222fb24258826b102ec9061ca0"      "d:\mywork\pb\会员管理\pic\hyksz\quxiao.bmp"
+		"hyksz\quxiao.jpg"                                      2009-08-03     09:38:10         1265  ""                 "A"           "1e9f6015fd7885590cad322c414a5222"      "d:\mywork\pb\会员管理\pic\hyksz\quxiao.jpg"
+		"hyksz\shanchu.bmp"                                     2009-08-05     16:58:38         4506  ""                 "A"           "c07a17556e3f92827f86ed9da79724c2"      "d:\mywork\pb\会员管理\pic\hyksz\shanchu.bmp"
+		"hyksz\shanchu.jpg"                                     2009-08-03     09:38:42         1385  ""                 "A"           "0af59b4b23f2d6a693dc30692c12c042"      "d:\mywork\pb\会员管理\pic\hyksz\shanchu.jpg"
+		"hytx\drtx.bmp"                                         2004-11-28     01:29:22         7354  ""                 "A"           "71a2fa9270de24547749da3504e7307e"      "d:\mywork\pb\会员管理\pic\hytx\drtx.bmp"
+		"hytx\drtx_d.bmp"                                       2004-11-28     01:26:44         7354  ""                 "A"           "42bb43a70b8ed38980cbe8c5d5e5ac48"      "d:\mywork\pb\会员管理\pic\hytx\drtx_d.bmp"
+		"hytx\drtx_m.bmp"                                       2004-11-28     01:26:20         7354  ""                 "A"           "82d156ef4091ce04d2c5bd6b849d81a1"      "d:\mywork\pb\会员管理\pic\hytx\drtx_m.bmp"
+		"hytx\drtxck.bmp"                                       2004-11-28     01:48:56        68850  ""                 "A"           "bb3eb5b7ab09907d86ed34c012dbd668"      "d:\mywork\pb\会员管理\pic\hytx\drtxck.bmp"
+		"hytx\gztxsz.bmp"                                       2004-11-28     01:34:00       123510  ""                 "A"           "e92113bf8613833e5d5206c0b5bdad17"      "d:\mywork\pb\会员管理\pic\hytx\gztxsz.bmp"
+		"hytx\qbtx.bmp"                                         2004-11-28     01:29:34         7354  ""                 "A"           "448b3fcbab7888c830493da153c6cf8a"      "d:\mywork\pb\会员管理\pic\hytx\qbtx.bmp"
+		"hytx\qbtx_d.bmp"                                       2004-11-28     01:26:58         7354  ""                 "A"           "4870e0dc530e5c937d67e1039fc4e720"      "d:\mywork\pb\会员管理\pic\hytx\qbtx_d.bmp"
+		"hytx\qbtx_m.bmp"                                       2004-11-28     01:28:10         7354  ""                 "A"           "52fbdbb79c4bfc079d51d5269adc1516"      "d:\mywork\pb\会员管理\pic\hytx\qbtx_m.bmp"
+		"hytx\sctx.bmp"                                         2004-11-28     01:27:14         7254  ""                 "A"           "7d9249b06945617eacf18d9653987ca1"      "d:\mywork\pb\会员管理\pic\hytx\sctx.bmp"
+		"hytx\sctx_d.bmp"                                       2004-11-28     01:27:30         7254  ""                 "A"           "33b106c618beb0ab270dcbaba3881ebd"      "d:\mywork\pb\会员管理\pic\hytx\sctx_d.bmp"
+		"hytx\sctx_m.bmp"                                       2004-11-28     01:28:28         7254  ""                 "A"           "da58e168127888ace21c2603730f6e78"      "d:\mywork\pb\会员管理\pic\hytx\sctx_m.bmp"
+		"hytx\sztxnr.bmp"                                       2004-11-28     01:36:42        62282  ""                 "A"           "912543bc17ddab36e2be801cf0725f9d"      "d:\mywork\pb\会员管理\pic\hytx\sztxnr.bmp"
+		"hytx\tjtx.bmp"                                         2004-11-28     01:26:06         7354  ""                 "A"           "f45867ff673f33855b836d08f4211dcf"      "d:\mywork\pb\会员管理\pic\hytx\tjtx.bmp"
+		"hytx\tjtx_d.bmp"                                       2004-11-28     01:25:00         7354  ""                 "A"           "f7d94b10c8d17079a753d4b74f60c2af"      "d:\mywork\pb\会员管理\pic\hytx\tjtx_d.bmp"
+		"hytx\tjtx_m.bmp"                                       2004-11-28     01:24:24         7354  ""                 "A"           "4cbd6afc8d8100bde4df764d86a22106"      "d:\mywork\pb\会员管理\pic\hytx\tjtx_m.bmp"
+		"hytx\xgtx.bmp"                                         2004-11-28     01:25:50         7354  ""                 "A"           "f5ac96f3172bd525f7689f55d5540819"      "d:\mywork\pb\会员管理\pic\hytx\xgtx.bmp"
+		"hytx\xgtx_d.bmp"                                       2004-11-28     01:25:16         7354  ""                 "A"           "2a1d69237f3e9f733c442811763c87ad"      "d:\mywork\pb\会员管理\pic\hytx\xgtx_d.bmp"
+		"hytx\xgtx_m.bmp"                                       2004-11-28     01:24:40         7354  ""                 "A"           "b741fc54f007f55974362f443efb53a8"      "d:\mywork\pb\会员管理\pic\hytx\xgtx_m.bmp"
+		"hyxf\hyth.bmp"                                         2004-11-28     02:31:12         8154  ""                 "A"           "ed7d4bcdd5f60ffc28994d1ee57e4189"      "d:\mywork\pb\会员管理\pic\hyxf\hyth.bmp"
+		"hyxf\hyth_d.bmp"                                       2004-11-28     02:30:42         8154  ""                 "A"           "93d613ae60e1f0db0b437040d7b1ad7f"      "d:\mywork\pb\会员管理\pic\hyxf\hyth_d.bmp"
+		"hyxf\hyth_f.bmp"                                       2004-11-28     02:33:22         8154  ""                 "A"           "c8658c03ba8d1aa9d58d241e265e6b24"      "d:\mywork\pb\会员管理\pic\hyxf\hyth_f.bmp"
+		"hyxf\hyth_m.bmp"                                       2004-11-28     02:30:18         8154  ""                 "A"           "2eeb3c9ebb15e227725a56e9282161d7"      "d:\mywork\pb\会员管理\pic\hyxf\hyth_m.bmp"
+		"hyxf\hyxf.bmp"                                         2004-11-28     02:34:34         8154  ""                 "A"           "817b9e044370d9d72a5fe9c652405959"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf.bmp"
+		"hyxf\hyxf_cx.bmp"                                      2009-08-28     09:55:08         3870  ""                 "A"           "d0e3372da7f2884014347aad0de851cf"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_cx.bmp"
+		"hyxf\hyxf_d.bmp"                                       2004-11-28     02:29:10         8154  ""                 "A"           "5e6dac877381ab184fd0174b553ca7fc"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_d.bmp"
+		"hyxf\hyxf_dh.bmp"                                      2009-08-28     09:55:28         5886  ""                 "A"           "b76f33257a82f09f9a756bfec0581023"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_dh.bmp"
+		"hyxf\hyxf_dh_false.bmp"                                2009-08-28     09:55:46         5886  ""                 "A"           "3b395658a4ad369930660ce7cc374453"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_dh_false.bmp"
+		"hyxf\hyxf_f.bmp"                                       2004-11-28     02:33:48         8154  ""                 "A"           "9578e3938ebb8a37b8556f3519100f52"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_f.bmp"
+		"hyxf\hyxf_hyxf.bmp"                                    2009-08-28     16:20:40        91046  ""                 "A"           "2db8e71800c744836fb88f8d08c2a396"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_hyxf.bmp"
+		"hyxf\hyxf_jcxf.bmp"                                    2009-08-28     16:21:18        64726  ""                 "A"           "ebdb623f26e7d4c9afac1ccc75cedd9b"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_jcxf.bmp"
+		"hyxf\hyxf_m.bmp"                                       2004-11-28     02:30:02         8154  ""                 "A"           "01097ec1cb70530e85546eb31975c8e4"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_m.bmp"
+		"hyxf\hyxf_qk.bmp"                                      2009-08-28     09:56:04         5886  ""                 "A"           "e617c04cb8aec6a055bb76713e3671af"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_qk.bmp"
+		"hyxf\hyxf_th.bmp"                                      2009-08-28     09:56:16         5598  ""                 "A"           "80269afead8c33f766316834b1260b1f"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_th.bmp"
+		"hyxf\hyxf_th_false.bmp"                                2009-08-28     09:56:30         5598  ""                 "A"           "7dfc036297ef517bf7633626acfdea21"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_th_false.bmp"
+		"hyxf\hyxf_top.bmp"                                     2009-08-26     16:17:52       123510  ""                 "A"           "c86cae600dd8bb1727904f4128ec44c5"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_top.bmp"
+		"hyxf\hyxf_xf.bmp"                                      2009-08-28     09:58:12         5598  ""                 "A"           "64d3ea58aa403848fb9349897e03f482"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_xf.bmp"
+		"hyxf\hyxf_xf_false.bmp"                                2009-08-28     13:59:22         5598  ""                 "A"           "2c4d6c7e43bd430037b5309116c1d4e3"      "d:\mywork\pb\会员管理\pic\hyxf\hyxf_xf_false.bmp"
+		"hyxf\jfdh.bmp"                                         2004-11-28     02:37:38         8454  ""                 "A"           "a8ea7e883a1bd9c508b44ca4c38908f4"      "d:\mywork\pb\会员管理\pic\hyxf\jfdh.bmp"
+		"hyxf\jfdh_d.bmp"                                       2004-11-28     02:37:18         8454  ""                 "A"           "91df2256c73af4fd54041682cea4cbe4"      "d:\mywork\pb\会员管理\pic\hyxf\jfdh_d.bmp"
+		"hyxf\jfdh_f.bmp"                                       2004-11-28     02:57:00         8454  ""                 "A"           "75022eedc908f290f7a3dd41d301fd89"      "d:\mywork\pb\会员管理\pic\hyxf\jfdh_f.bmp"
+		"hyxf\jfdh_m.bmp"                                       2004-11-28     02:37:02         8454  ""                 "A"           "8c074afa04fa2a7d8d7a0da7ab5f2e53"      "d:\mywork\pb\会员管理\pic\hyxf\jfdh_m.bmp"
+		"hyxf\jgdh_f.bmp"                                       2004-11-28     02:31:56         8790  ""                 "A"           "03cd84987e07e6cb29d58303064953a2"      "d:\mywork\pb\会员管理\pic\hyxf\jgdh_f.bmp"
+		"hyxf\jz.bmp"                                           2004-11-28     03:14:20         5754  ""                 "A"           "be2eb736b0fa24617a9ab786f356471e"      "d:\mywork\pb\会员管理\pic\hyxf\jz.bmp"
+		"hyxf\jz_d.bmp"                                         2004-11-28     03:14:04         5754  ""                 "A"           "194af23afbb7ab0b47d1e076c4f98c9f"      "d:\mywork\pb\会员管理\pic\hyxf\jz_d.bmp"
+		"hyxf\jz_m.bmp"                                         2004-11-28     03:13:46         5754  ""                 "A"           "a2f61bb4bad415b01f18ebb8b8ee98be"      "d:\mywork\pb\会员管理\pic\hyxf\jz_m.bmp"
+		"hyxf\qkxx.bmp"                                         2004-11-28     02:32:58         8454  ""                 "A"           "14e725161896e4de1ddfc3020b244318"      "d:\mywork\pb\会员管理\pic\hyxf\qkxx.bmp"
+		"hyxf\qkxx_d.bmp"                                       2004-11-28     02:32:40         8454  ""                 "A"           "7b990102ade48a1a360fd4ec93c56dda"      "d:\mywork\pb\会员管理\pic\hyxf\qkxx_d.bmp"
+		"hyxf\qkxx_m.bmp"                                       2004-11-28     02:32:22         8454  ""                 "A"           "fb65674e132e87eab49ba0618ca94495"      "d:\mywork\pb\会员管理\pic\hyxf\qkxx_m.bmp"
+		"hyxf\tc.bmp"                                           2004-11-28     03:15:10         5754  ""                 "A"           "46d3feab850361d9de31c5e01b57347c"      "d:\mywork\pb\会员管理\pic\hyxf\tc.bmp"
+		"hyxf\tc_d.bmp"                                         2004-11-28     03:14:34         5754  ""                 "A"           "9d618607fa858aa757fba805b79179e5"      "d:\mywork\pb\会员管理\pic\hyxf\tc_d.bmp"
+		"hyxf\tc_m.bmp"                                         2004-11-28     03:14:58         5754  ""                 "A"           "915083440beb53b851f11dd405452ad3"      "d:\mywork\pb\会员管理\pic\hyxf\tc_m.bmp"
+		"jfdh\jfdh.bmp"                                         2009-09-17     09:12:52        84326  ""                 "A"           "16a99d814e44f70c7cb8e21228644d05"      "d:\mywork\pb\会员管理\pic\jfdh\jfdh.bmp"
+		"jfdh\qddh.bmp"                                         2004-11-29     05:04:04         7454  ""                 "A"           "ac64e20df846b842a2769e761435bc7a"      "d:\mywork\pb\会员管理\pic\jfdh\qddh.bmp"
+		"jfdh\qddh_d.bmp"                                       2004-11-29     05:04:22         7454  ""                 "A"           "b28878cc0fd4eeb09efc19bfb65dfe92"      "d:\mywork\pb\会员管理\pic\jfdh\qddh_d.bmp"
+		"jfdh\qddh_m.bmp"                                       2004-11-29     05:03:44         7454  ""                 "A"           "6b0f9e5daf396fa269f85392099f5b5c"      "d:\mywork\pb\会员管理\pic\jfdh\qddh_m.bmp"
+		"spxx\jth.bmp"                                          2004-11-29     06:01:22         5754  ""                 "A"           "014aee4f03a4c5fa7640c6bc8f46a055"      "d:\mywork\pb\会员管理\pic\spxx\jth.bmp"
+		"spxx\jth_d.bmp"                                        2004-11-29     06:00:32         5754  ""                 "A"           "84cbf3b5c47b6ae71f44220dd91b185b"      "d:\mywork\pb\会员管理\pic\spxx\jth_d.bmp"
+		"spxx\jth_m.bmp"                                        2004-11-29     06:01:06         5754  ""                 "A"           "5ebffe6a97cab396aae99afc9bc0cf56"      "d:\mywork\pb\会员管理\pic\spxx\jth_m.bmp"
+		"spxx\spxx_jthgl.bmp"                                   2009-08-20     17:01:26        64350  ""                 "A"           "a10466e235c505fe54b017cced200516"      "d:\mywork\pb\会员管理\pic\spxx\spxx_jthgl.bmp"
+		"spxx\spxx_spgl.bmp"                                    2009-08-20     17:00:44        55142  ""                 "A"           "8edaa6dee9f428aadf8aea4618730155"      "d:\mywork\pb\会员管理\pic\spxx\spxx_spgl.bmp"
+		"spxx\spxx_top.bmp"                                     2009-08-19     17:48:20       123510  ""                 "A"           "33eec3b8ff70c147017962a5de238b37"      "d:\mywork\pb\会员管理\pic\spxx\spxx_top.bmp"
+		"vip\test\01.bmp"                                       2010-03-05     14:40:52            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "d:\mywork\pb\会员管理\pic\vip\test\01.bmp"
+		"tjbb\bbsz.bmp"                                         2009-09-21     08:20:08         5246  ""                 "A"           "b63052e0e884024a9239d7b1cc6e247a"      "d:\mywork\pb\会员管理\pic\tjbb\bbsz.bmp"
+		"tjbb\dhsptj.bmp"                                       2009-10-29     14:14:22        26342  ""                 "A"           "4142dc64a29951ae126172c39df8aa41"      "d:\mywork\pb\会员管理\pic\tjbb\dhsptj.bmp"
+		"tjbb\dhsptj_d.bmp"                                     2009-10-29     14:14:48        26342  ""                 "A"           "1d0f3962dc6cea4d65b7bfc3513fddf2"      "d:\mywork\pb\会员管理\pic\tjbb\dhsptj_d.bmp"
+		"tjbb\dhsptjbb.bmp"                                     2009-09-20     09:00:12        88074  ""                 "A"           "9f150e9b0c424f0479fa80f383696e77"      "d:\mywork\pb\会员管理\pic\tjbb\dhsptjbb.bmp"
+		"tjbb\dy.bmp"                                           2009-11-17     17:06:20         4720  ""                 "A"           "df335797695ca5567c9dfaa7662df97a"      "d:\mywork\pb\会员管理\pic\tjbb\dy.bmp"
+		"tjbb\hyczxx.bmp"                                       2009-10-29     14:16:26        26342  ""                 "A"           "e73c00e925aa79fe73d8234966309d77"      "d:\mywork\pb\会员管理\pic\tjbb\hyczxx.bmp"
+		"tjbb\hyczxx_d.bmp"                                     2009-10-29     14:16:48        26342  ""                 "A"           "fb647609c2e00b3ed136c31afd3e045a"      "d:\mywork\pb\会员管理\pic\tjbb\hyczxx_d.bmp"
+		"tjbb\hyjbxx.bmp"                                       2009-10-29     14:15:08        26342  ""                 "A"           "8acd48515e2a28ed1b92af6532e080a0"      "d:\mywork\pb\会员管理\pic\tjbb\hyjbxx.bmp"
+		"tjbb\hyjbxx_d.bmp"                                     2009-10-29     14:15:32        26342  ""                 "A"           "a4fbdc7aad98e95ae1cfeaba7fad4392"      "d:\mywork\pb\会员管理\pic\tjbb\hyjbxx_d.bmp"
+		"tjbb\hyjbxxbb.bmp"                                     2009-09-21     13:31:22       105354  ""                 "A"           "10e698883da5c864f79d9bddf26f41ea"      "d:\mywork\pb\会员管理\pic\tjbb\hyjbxxbb.bmp"
+		"tjbb\hykcz.bmp"                                        2009-09-21     17:33:54        93834  ""                 "A"           "a0b6baf97238814d1ccfc10c7ab37676"      "d:\mywork\pb\会员管理\pic\tjbb\hykcz.bmp"
+		"tjbb\hyxftj.bmp"                                       2009-09-22     07:31:10        81750  ""                 "A"           "e8099f82ec550dd2d22dfee925f5579c"      "d:\mywork\pb\会员管理\pic\tjbb\hyxftj.bmp"
+		"tjbb\hyxfxx.bmp"                                       2009-10-29     14:15:52        26342  ""                 "A"           "d8e76d253223e572c5aedc6c27ec03f1"      "d:\mywork\pb\会员管理\pic\tjbb\hyxfxx.bmp"
+		"tjbb\hyxfxx_d.bmp"                                     2009-10-29     14:16:10        26342  ""                 "A"           "7736c40f0c8e7396ee664ba292256eaf"      "d:\mywork\pb\会员管理\pic\tjbb\hyxfxx_d.bmp"
+		"tjbb\jfdhsz.bmp"                                       2009-09-21     10:10:12        79862  ""                 "A"           "c3e05cc957dba61bb3c55443c13c30ac"      "d:\mywork\pb\会员管理\pic\tjbb\jfdhsz.bmp"
+		"tjbb\kcsptj.bmp"                                       2009-10-29     14:18:30        26342  ""                 "A"           "3acfcd50206c69b4a0f39fefe4685929"      "d:\mywork\pb\会员管理\pic\tjbb\kcsptj.bmp"
+		"tjbb\kcsptj_d.bmp"                                     2009-10-29     14:18:58        26342  ""                 "A"           "f4ba6f4c17869e956444beba171141e6"      "d:\mywork\pb\会员管理\pic\tjbb\kcsptj_d.bmp"
+		"tjbb\kcspxx.bmp"                                       2009-09-21     15:03:12       102834  ""                 "A"           "963414bd245e7adfe4eee9527263de3c"      "d:\mywork\pb\会员管理\pic\tjbb\kcspxx.bmp"
+		"tjbb\tuichu.bmp"                                       2009-09-21     08:21:18         3726  ""                 "A"           "6ab3afd3c559b646823199e9249fd9bc"      "d:\mywork\pb\会员管理\pic\tjbb\tuichu.bmp"
+		"tjbb\xfsptj.bmp"                                       2009-10-29     14:17:54        26342  ""                 "A"           "1b0c99f30f2143d3e3f63cd0055f6e4b"      "d:\mywork\pb\会员管理\pic\tjbb\xfsptj.bmp"
+		"tjbb\xfsptj_d.bmp"                                     2009-10-29     14:18:12        26342  ""                 "A"           "c6656dbcbd2feb5b91bf1ea4f4b96f19"      "d:\mywork\pb\会员管理\pic\tjbb\xfsptj_d.bmp"
+		"tjbb\xssptj.bmp"                                       2009-09-23     07:37:08       109846  ""                 "A"           "5b40ed79e50162b70a42028ccc6fe3a0"      "d:\mywork\pb\会员管理\pic\tjbb\xssptj.bmp"
+		"tjbb\yulan.bmp"                                        2009-09-21     10:12:56         4718  ""                 "A"           "248b5d4a8cd7b3445d13cfec70d3418b"      "d:\mywork\pb\会员管理\pic\tjbb\yulan.bmp"
+		"tjbb\zhtj.bmp"                                         2009-10-29     14:17:20        26342  ""                 "A"           "dd05aff70e59b38f8baddc01480e563f"      "d:\mywork\pb\会员管理\pic\tjbb\zhtj.bmp"
+		"tjbb\zhtj_d.bmp"                                       2009-10-29     14:17:38        26342  ""                 "A"           "9ecba4daddc3fed34863d780261a9b89"      "d:\mywork\pb\会员管理\pic\tjbb\zhtj_d.bmp"
+		"tjbb\zhtjbb.bmp"                                       2009-09-21     16:32:38        94998  ""                 "A"           "02b24eecb427d077e2c9cf2f0fd563f0"      "d:\mywork\pb\会员管理\pic\tjbb\zhtjbb.bmp"
+		"yhgl\bc.bmp"                                           2009-10-24     09:44:02         5754  ""                 "A"           "77622673ca852d4572ec26d242303530"      "d:\mywork\pb\会员管理\pic\yhgl\bc.bmp"
+		"yhgl\bc_d.bmp"                                         2009-10-24     09:46:06         5754  ""                 "A"           "c1ec112ed4cdebba9b5b30744bcb0899"      "d:\mywork\pb\会员管理\pic\yhgl\bc_d.bmp"
+		"yhgl\bc_h.bmp"                                         2009-10-24     14:00:02         5114  ""                 "A"           "b5841312f2b9c4c3f85e987bfcaea8df"      "d:\mywork\pb\会员管理\pic\yhgl\bc_h.bmp"
+		"yhgl\bc_m.bmp"                                         2004-11-28     03:45:40         5754  ""                 "A"           "920a5355778c89f4b52968ebc94053fb"      "d:\mywork\pb\会员管理\pic\yhgl\bc_m.bmp"
+		"yhgl\qx.bmp"                                           2009-10-24     09:44:16         5754  ""                 "A"           "6d2d0ef564bf1545961cb7adddf5d0d4"      "d:\mywork\pb\会员管理\pic\yhgl\qx.bmp"
+		"yhgl\qx_d.bmp"                                         2009-10-24     09:44:40         5754  ""                 "A"           "ac830202c1b59dc3f2996960913f43fb"      "d:\mywork\pb\会员管理\pic\yhgl\qx_d.bmp"
+		"yhgl\qx_h.bmp"                                         2009-10-26     09:08:44         5114  ""                 "A"           "63282bea33f44dfd449b016d5d8e71fe"      "d:\mywork\pb\会员管理\pic\yhgl\qx_h.bmp"
+		"yhgl\qx_m.bmp"                                         2004-11-28     03:45:58         5754  ""                 "A"           "c0da55550af74155d367ccda9dd6d1cf"      "d:\mywork\pb\会员管理\pic\yhgl\qx_m.bmp"
+		"yhgl\sc.bmp"                                           2009-10-24     09:43:38         5754  ""                 "A"           "aa812692adcd6689963c3de17a2a7200"      "d:\mywork\pb\会员管理\pic\yhgl\sc.bmp"
+		"yhgl\sc_d.bmp"                                         2009-10-24     09:45:04         5754  ""                 "A"           "fb6f99dc933a3f7f1d4d9f1705a69949"      "d:\mywork\pb\会员管理\pic\yhgl\sc_d.bmp"
+		"yhgl\sc_h.bmp"                                         2009-10-24     11:25:26         5114  ""                 "A"           "152e8dfc0075a11104ff09cc1be6026a"      "d:\mywork\pb\会员管理\pic\yhgl\sc_h.bmp"
+		"yhgl\sc_m.bmp"                                         2004-11-28     03:46:14         5754  ""                 "A"           "097de0936600349bd8d12aa80a7e0745"      "d:\mywork\pb\会员管理\pic\yhgl\sc_m.bmp"
+		"yhgl\xg.bmp"                                           2009-10-24     09:43:18         5754  ""                 "A"           "927525e3a3ee6a9caff0de0a013ffa38"      "d:\mywork\pb\会员管理\pic\yhgl\xg.bmp"
+		"yhgl\xg_d.bmp"                                         2009-10-24     09:46:40         5754  ""                 "A"           "86967819fa64a00538af2428f9829d58"      "d:\mywork\pb\会员管理\pic\yhgl\xg_d.bmp"
+		"yhgl\xg_m.bmp"                                         2004-11-28     03:43:22         5754  ""                 "A"           "1dbda384d73a92da0d80bac30468b97d"      "d:\mywork\pb\会员管理\pic\yhgl\xg_m.bmp"
+		"yhgl\yhgl.bmp"                                         2009-10-23     15:27:54       123510  ""                 "A"           "c0f0a4b29b538d3800764aecb705cfee"      "d:\mywork\pb\会员管理\pic\yhgl\yhgl.bmp"
+		"yhgl\zj.bmp"                                           2009-10-24     09:42:58         5754  ""                 "A"           "79bbb4b849e17e6171ef44aa0eb1fa6e"      "d:\mywork\pb\会员管理\pic\yhgl\zj.bmp"
+		"yhgl\zj_d.bmp"                                         2009-10-24     09:45:22         5754  ""                 "A"           "a25c4c15dd070fbbd47aba31aa4305b2"      "d:\mywork\pb\会员管理\pic\yhgl\zj_d.bmp"
+		"yhgl\zj_m.bmp"                                         2004-11-28     03:43:08         5754  ""                 "A"           "9f1aca3ca7589075d8446d2b66d50528"      "d:\mywork\pb\会员管理\pic\yhgl\zj_m.bmp"
+
+>Files4<
+
+		Size of Files:   		         19068
+		Size in Library:		          1660
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"xgjf.bmp"                                              2010-07-14     15:26:26         6356  ""                 "A"           "5d086959813e70a87decb64c517e587e"      "d:\mywork\pb\会员管理\pic\hygl\xgjf.bmp"
+		"xgjf_d.bmp"                                            2010-07-14     15:28:06         6356  ""                 "A"           "e443b828e6df7e56acef23bbf35e1a98"      "d:\mywork\pb\会员管理\pic\hygl\xgjf_d.bmp"
+		"xgjf_m.bmp"                                            2010-07-14     15:28:12         6356  ""                 "A"           "3783fc0f0cda07a0ce52914fd6a06993"      "d:\mywork\pb\会员管理\pic\hygl\xgjf_m.bmp"
+
+>SelfRegFiles<
+
+		Size of Files:   		        466944
+		Size in Library:		        170529
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"pbodb100.dll"                                          2004-10-25     12:53:44       466944  "10.0.1.5502"      "A"           "98936477ff1a2bf5cdbed53f2cb47035"      "d:\mywork\pb\会员管理\pbodb100.dll"

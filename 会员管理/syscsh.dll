@@ -1,0 +1,19 @@
+=====================================================================
+    *请您不要在这里更改否则程序将不能正常运行*
+=====================================================================
+[sysset]
+Server=DGQ-O8CKQGLX0NZ
+id=sa
+pass =
+database= hyjsf
+sd=0
+
+
+
+[master]
+server=DGQ-O8CKQGLX0NZ
+user=sa
+pass=sa
+data=master
+sd=1
+

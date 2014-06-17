@@ -1,0 +1,559 @@
+//////////////////////////////////////////////////////////////////////
+/////////////////////////////// Summary //////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+		Features:  			        13
+		Components:			        21
+		Number of Files:		       257
+		Size of Files:   		      75547042
+		Size in Library:		      28561889
+
+
+		<Support>
+			Engine
+				Log
+				Kernel
+			Main Installation
+				Script
+				Setup
+				StrTbl
+				RunTime
+				Resource
+		<Data>
+			Disk<1>
+			小帝工资管理系统
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Features ///////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+*<Support>*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Log*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Kernel*
+
+		Component
+		------------------------------------------------------
+		"<Engine>Kernel Placeholder"
+		"<Engine>EngineCommonPlaceHolderSelfReg"
+
+*<Support>\Main Installation*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Main Installation\Script*
+
+		Component
+		------------------------------------------------------
+		"<Support>Script"
+
+*<Support>\Main Installation\Setup*
+
+		Component
+		------------------------------------------------------
+		"<Support>Language Independent OS Independent Files"
+		"<Support>Chinese (Simplified) OS Independent Files"
+		"<Support>Misc Support Files"
+		"<Support>Build Generated Support Files"
+		"<Support>Misc i64 Support Files"
+		"<Support>Misc x64 Support Files"
+
+*<Support>\Main Installation\StrTbl*
+
+		Component
+		------------------------------------------------------
+		"<Support>Chinese (Simplified) String Tables"
+
+*<Support>\Main Installation\RunTime*
+
+		Component
+		------------------------------------------------------
+		"<Support>Non-SelfRegistering"
+
+*<Support>\Main Installation\Resource*
+
+		Component
+		------------------------------------------------------
+		"<Support>Chinese (Simplified) Files"
+
+*<Data>*
+
+		Component
+		------------------------------------------------------
+
+*<Data>\Disk<1>*
+
+		Component
+		------------------------------------------------------
+		"<Disk1>Disk1 Files(1)"
+		"<Disk1>Disk1 Files(2)"
+		"<Disk1>Disk1 Files(3)"
+		"<Disk1>Disk1 Files(4)"
+
+*<Data>\小帝工资管理系统*
+
+		Component
+		------------------------------------------------------
+		"DefaultComponent"
+		"SelfRegFiles1"
+		"Files1"
+		"Files"
+		"SelfRegFiles"
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Components ////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+><Engine>Kernel Placeholder<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Engine>EngineCommonPlaceHolderSelfReg<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Script<
+
+		Size of Files:   		        230833
+		Size in Library:		        230833
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             2010-08-04     10:27:38       230833  ""                 "A"           "46d9e6861af513647786809cd1e4d2f5"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\script files\setup.inx"
+
+><Support>Language Independent OS Independent Files<
+
+		Size of Files:   		         12197
+		Size in Library:		          3084
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"自述说明.txt"                                          2005-10-15     14:18:48          704  ""                 "A"           "e4dd36768e194477283abc1876bcdd5e"      "d:\mywork\pb\gzgl\自述说明.txt"
+		"license.rtf"                                           2004-11-28     09:52:18        11493  ""                 "A"           "e7eb45e877c8cb80f56e9dbc9504e757"      "e:\installshield2009\redist\0409\license.rtf"
+
+><Support>Chinese (Simplified) OS Independent Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Misc Support Files<
+
+		Size of Files:   		         76583
+		Size in Library:		         17958
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"corecomp.ini"                                          2006-03-06     23:55:04        65503  ""                 "A"           "09d38ceca6a012f4ce5b54f03db9b21a"      "e:\installshield2009\redist\language independent\i386\corecomp.ini"
+		"dotnetinstaller.exe"                                   2008-05-10     00:27:18        11080  "15.0.0.498"       "A"           "454b552e06b44d4594a811e066dc4c5f"      "e:\installshield2009\redist\language independent\i386\dotnetinstaller.exe"
+
+><Support>Build Generated Support Files<
+
+		Size of Files:   		           155
+		Size in Library:		           133
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"fontdata.ini"                                          2010-08-04     10:27:46           39  ""                 "A"           "00f313e3e007599349a0c4d81c7807c4"      "c:\docume~1\admini~1\locals~1\temp\fontdata.ini"
+		"difxdata.ini"                                          2010-08-04     10:27:46           86  ""                 "A"           "10baa5b67536f4433f37534b9c8bb828"      "c:\docume~1\admini~1\locals~1\temp\difxdata.ini"
+		"vasdata.ini"                                           2010-08-04     10:27:46           30  ""                 "A"           "b16ff78e4420d4049da82fffe3026d31"      "c:\docume~1\admini~1\locals~1\temp\vasdata.ini"
+
+><Support>Misc i64 Support Files<
+
+		Size of Files:   		        247608
+		Size in Library:		        107194
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           2008-05-10     00:28:32       247608  "15.0.0.498"       "A"           "c7f07e6084a2beedea02836b15585299"      "e:\installshield2009\redist\language independent\i64\isbew64.exe"
+
+><Support>Misc x64 Support Files<
+
+		Size of Files:   		        117560
+		Size in Library:		         55536
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           2008-05-10     00:28:30       117560  "15.0.0.498"       "A"           "2a276ba2b7782476302c59d0f760f4bc"      "e:\installshield2009\redist\language independent\x64\isbew64.exe"
+
+><Support>Chinese (Simplified) String Tables<
+
+		Size of Files:   		          3528
+		Size in Library:		           607
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"stringtable-0804-chinese (simplified).ips"             2010-08-04     10:27:38         3528  ""                 "A"           "195a73f2162b87da36fa6ca80d1e581e"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\string tables\stringtable-0804-chinese (simplified).ips"
+
+><Support>Non-SelfRegistering<
+
+		Size of Files:   		        224192
+		Size in Library:		        215498
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isrt.dll"                                              2008-05-10     00:27:42       223024  "15.0.0.498"       "A"           "0f68d760fb480a1b039ca7d6b877d24c"      "e:\installshield2009\redist\language independent\i386\isrt.dll"
+		"default.pal"                                           2006-03-06     23:55:02         1168  ""                 "A"           "0abafe3f69d053494405061de2629c82"      "e:\installshield2009\redist\language independent\i386\default.pal"
+
+><Support>Chinese (Simplified) Files<
+
+		Size of Files:   		        274432
+		Size in Library:		         80196
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"_isres.dll"                                            2008-05-09     23:55:50       274432  "15.0.0.498"       "A"           "19ec9900c36f2dcfb95086619083dcc6"      "e:\installshield2009\redist\0804\i386\_isres.dll"
+
+><Disk1>Disk1 Files(1)<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"layout.bin"                                            2004-11-28     10:32:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "e:\installshield2009\support\build\layout.bin"
+		"data1.hdr"                                             2004-11-28     10:32:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "e:\installshield2009\support\build\data1.hdr"
+		"data1.cab"                                             2004-11-28     10:32:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "e:\installshield2009\support\build\data1.cab"
+
+><Disk1>Disk1 Files(2)<
+
+		Size of Files:   		       1281856
+		Size in Library:		       1281856
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.exe"                                             2010-08-04     10:27:46       393216  "15.0.0.498"       "A"           "8d699c26857440661fad1aed839ffc79"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\media\single_exe_image\disk images\disk1\setup.exe"
+		"_setup.dll"                                            2008-05-10     00:27:22       333120  "15.0.0.498"       "A"           "7de2d19c870587b8ffc5a446e9b6e29a"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\media\single_exe_image\disk images\disk1\_setup.dll"
+		"issetup.dll"                                           2008-06-19     22:42:44       555520  "15.0.0.533"       ""            "c5b13b3c260393e7d64506b7399a2a11"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\media\single_exe_image\disk images\disk1\issetup.dll"
+
+><Disk1>Disk1 Files(3)<
+
+		Size of Files:   		        230833
+		Size in Library:		        230833
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             2010-08-04     10:27:38       230833  ""                 "A"           "46d9e6861af513647786809cd1e4d2f5"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\script files\setup.inx"
+
+><Disk1>Disk1 Files(4)<
+
+		Size of Files:   		           503
+		Size in Library:		           503
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.ini"                                             2010-08-04     10:27:46          503  ""                 "A"           "2800b6d5cfc35c8824bde6c8f4c2a95d"      "d:\mywork\pb\gzgl\安装文件\小帝工资管理系统\media\single_exe_image\disk images\disk1\setup.ini"
+
+>DefaultComponent<
+
+		Size of Files:   		      49386518
+		Size in Library:		      15724974
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"buttonskin.dll"                                        2003-07-22     12:22:48        84992  ""                 "A"           "c36f8ae23a99e5795aa9315d91709eaf"      "d:\mywork\pb\gzgl\install\buttonskin.dll"
+		"getcpuid.dll"                                          2001-02-16     14:08:02        59904  ""                 "A"           "b00722fe169cd9c299ed680cf1f70f9d"      "d:\mywork\pb\gzgl\install\getcpuid.dll"
+		"getmac.dll"                                            2005-02-17     11:32:48        40448  ""                 "A"           "c66bd84f08f033424e49d35240372b15"      "d:\mywork\pb\gzgl\install\getmac.dll"
+		"gzgl.dll"                                              2007-03-17     15:50:08      4566016  "1.0.0.1"          "A"           "09ae721517497b0ad941dbe287b5f2fe"      "d:\mywork\pb\gzgl\install\gzgl.dll"
+		"netdiskdll.dll"                                        2003-12-30     15:12:22        36864  "1.0.0.1"          "A"           "c98a5661d8072aabd537d176ebb10d36"      "d:\mywork\pb\gzgl\install\netdiskdll.dll"
+		"spellcode.dll"                                         2002-12-03     15:00:14       116224  "1.0.0.0"          "A"           "c6d8454e9c0538069267e9519cfe5102"      "d:\mywork\pb\gzgl\install\spellcode.dll"
+		"user32.dll"                                            2004-03-24     10:15:16       403216  "5.0.2195.6897"    "A"           "7c7c151628287a682d03d5ace6dbfe0d"      "d:\mywork\pb\gzgl\install\user32.dll"
+		"asa9.0.reg"                                            2005-05-12     15:54:50          536  ""                 "A"           "1b99f64287698d1ab037cae3ec26c18d"      "d:\mywork\pb\gzgl\install\asa9.0.reg"
+		"asa9.0t.reg"                                           2005-05-12     15:55:04          652  ""                 "A"           "b95f3572e5e009206bd11040f58edb0b"      "d:\mywork\pb\gzgl\install\asa9.0t.reg"
+		"commonframe.dll"                                       2007-03-17     15:15:52      2963968  "1.0.0.1"          "A"           "96f0b1663912ea546d84ee976359e0aa"      "d:\mywork\pb\gzgl\install\commonframe.dll"
+		"commonframe.exe"                                       2010-08-04     09:55:32        83968  "1.0.0.1"          "A"           "b43d14c3d591fb557d9f04a5a72fe4e0"      "d:\mywork\pb\gzgl\install\commonframe.exe"
+		"commonframe.pbd"                                       2010-08-04     09:55:32       638464  ""                 "A"           "1f4a0265e1c7ac247214686c395fec38"      "d:\mywork\pb\gzgl\install\commonframe.pbd"
+		"commonframe1.pbd"                                      2010-08-04     09:02:06       552448  ""                 "A"           "21d476944ee5281f20234575844b5c5b"      "d:\mywork\pb\gzgl\install\commonframe1.pbd"
+		"date.exe"                                              2010-08-04     09:02:04       195072  "1.0.0.1"          "A"           "0e7d6d3425ec7d943691d90797ee7d58"      "d:\mywork\pb\gzgl\install\date.exe"
+		"dw2xls.pbd"                                            2010-08-04     09:45:16       620032  ""                 "A"           "f27d226a6df6c726e7d18eaed80cf8e3"      "d:\mywork\pb\gzgl\install\dw2xls.pbd"
+		"dw2xlsdemo.pbd"                                        2010-08-04     09:45:16       612352  ""                 "A"           "8e64724eb9df76297d0812db8180f29e"      "d:\mywork\pb\gzgl\install\dw2xlsdemo.pbd"
+		"gz.dll"                                                2007-03-17     16:22:28      7840256  "1.0.0.1"          "A"           "4e1d3db8610d18eb551ee21de63dfa04"      "d:\mywork\pb\gzgl\install\gz.dll"
+		"gz.pbd"                                                2010-08-04     09:55:38      2794496  ""                 "A"           "026fc489fd01ca31d4f509b6c1780617"      "d:\mywork\pb\gzgl\install\gz.pbd"
+		"gzgl.db"                                               2004-11-28     00:21:54      2443264  ""                 "A"           "bd9d84bd5cda10de4407f9eec8f154cf"      "d:\mywork\pb\gzgl\install\gzgl.db"
+		"gzgl.pbd"                                              2010-08-04     09:55:36      1511424  ""                 "A"           "895d06eac81c1583e897b73de89ca8bf"      "d:\mywork\pb\gzgl\install\gzgl.pbd"
+		"help.chm"                                              2006-12-27     13:40:04       779263  ""                 "A"           "11ba8ea391fe0131d9067e480cd27afa"      "d:\mywork\pb\gzgl\install\help.chm"
+		"import.pbd"                                            2010-08-04     09:02:08        74240  ""                 "A"           "c3110141fd6c233fde1039f442306526"      "d:\mywork\pb\gzgl\install\import.pbd"
+		"jhgl.reg"                                              2005-05-12     15:54:18          908  ""                 "A"           "bae855559ee9a670ca4517d387c2ed8c"      "d:\mywork\pb\gzgl\install\jhgl.reg"
+		"libjcc.dll"                                            2003-02-14     16:23:34       392192  ""                 "A"           "f91f03d86aef8c3149ef752c8fa208bb"      "d:\mywork\pb\gzgl\install\libjcc.dll"
+		"libjsybheap.dll"                                       2003-02-14     16:23:34        35328  ""                 "A"           "1f003b462ddcf9937c698010b3144687"      "d:\mywork\pb\gzgl\install\libjsybheap.dll"
+		"main.dll"                                              2007-03-17     15:40:54      2002432  "1.0.0.1"          "A"           "dd259e94964b706e2afc50a204292eac"      "d:\mywork\pb\gzgl\install\main.dll"
+		"main.pbd"                                              2010-08-04     09:55:34       614912  ""                 "A"           "65ff3b7656bccd161128ab91f3a39208"      "d:\mywork\pb\gzgl\install\main.pbd"
+		"main1.pbd"                                             2010-08-04     09:02:08       566272  ""                 "A"           "91d139f0b16257ac3f6d62cce77b250a"      "d:\mywork\pb\gzgl\install\main1.pbd"
+		"msvcrt.dll"                                            2002-08-30     12:04:02       266293  "6.0.8337.0"       "A"           "63da4613383ec70e047b4cd5c48f0b05"      "d:\mywork\pb\gzgl\install\msvcrt.dll"
+		"pbdwe90.dll"                                           2003-03-03     16:37:18      2467840  "9.0.0.5507"       "A"           "8203e3e7f08747538a45c5a815571ccc"      "d:\mywork\pb\gzgl\install\pbdwe90.dll"
+		"pblab90.ini"                                           2003-02-14     16:23:38        26668  ""                 "A"           "00d307c20a657acbba67ea1e5a8ee7c2"      "d:\mywork\pb\gzgl\install\pblab90.ini"
+		"pbodb90.ini"                                           2003-02-14     16:24:14        67893  ""                 "A"           "5a56392b1f7c00a277b77d5296fb87c8"      "d:\mywork\pb\gzgl\install\pbodb90.ini"
+		"pborc90.dll"                                           2003-02-14     18:45:04        36864  "9.0.0.5507"       "A"           "66c273043078c0854d0d0ccd3e14057d"      "d:\mywork\pb\gzgl\install\pborc90.dll"
+		"pbtra90.dll"                                           2003-02-14     18:47:14        34304  "9.0.0.5507"       "A"           "6f1a6ee39a8665246e01432967d86246"      "d:\mywork\pb\gzgl\install\pbtra90.dll"
+		"pbvm80.dll"                                            2002-09-19     18:35:54      4506112  "8.0.3.9704"       "A"           "bf9e093353c3140d101c77968a683716"      "d:\mywork\pb\gzgl\install\pbvm80.dll"
+		"pbvm90.dll"                                            2003-02-14     18:47:00      4721664  "9.0.0.5507"       "A"           "351012fc309d0ef5a233ef369007808c"      "d:\mywork\pb\gzgl\install\pbvm90.dll"
+		"print.dll"                                             2006-11-11     18:29:28          254  ""                 "A"           "954e7abde9e4f1b8e6e4521b3c27e929"      "d:\mywork\pb\gzgl\install\print.dll"
+		"s_jhgl.reg"                                            2005-05-17     15:41:02          758  ""                 "A"           "9c2cfe20bdf79c11b361316e04549b29"      "d:\mywork\pb\gzgl\install\s_jhgl.reg"
+		"server.db"                                             2006-12-15     15:27:36      1902592  ""                 "A"           "8f5271389f2e7abecf49e78899a0791a"      "d:\mywork\pb\gzgl\install\server.db"
+		"server.dll"                                            2006-12-04     07:39:30      1902592  ""                 "A"           "810ece7b2b6041a4aae54a7f1c320172"      "d:\mywork\pb\gzgl\install\server.dll"
+		"std_window.dll"                                        2007-03-17     15:39:38      2491392  "1.0.0.1"          "A"           "205a52fa7a7a39acbbd06a02578ff171"      "d:\mywork\pb\gzgl\install\std_window.dll"
+		"std_window.pbd"                                        2010-08-04     09:55:32       433152  ""                 "A"           "67c846af93d5f05391067849e4d77c1d"      "d:\mywork\pb\gzgl\install\std_window.pbd"
+		"std_window1.pbd"                                       2010-08-04     09:02:06       433152  ""                 "A"           "c2ee3a1faa6de6e4d72643cfd5550c2d"      "d:\mywork\pb\gzgl\install\std_window1.pbd"
+		"sysset.dll"                                            2008-05-15     13:28:42          333  ""                 "A"           "dfee4e835c051c02d25ec0779b13a498"      "d:\mywork\pb\gzgl\install\sysset.dll"
+		"wintxt.dll"                                            2006-12-06     09:35:10            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "d:\mywork\pb\gzgl\install\wintxt.dll"
+		"winxls.dll"                                            2006-12-31     16:25:48        40448  ""                 "A"           "7eac584f2657a5e2775b8de5f3a34a12"      "d:\mywork\pb\gzgl\install\winxls.dll"
+		"工资导入演示模板.xls"                                  2007-03-21     09:43:32        24064  ""                 "A"           "8595815d868a6082581b34168f86a0f2"      "d:\mywork\pb\gzgl\install\工资导入演示模板.xls"
+
+>SelfRegFiles1<
+
+		Size of Files:   		       1380352
+		Size in Library:		        687176
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"dbctrs9.dll"                                           2003-10-16     22:06:54       114688  "9.0.0.1227"       "A"           "4684ae2e4ba4ddba0bb42028bdfb2fe6"      "d:\mywork\pb\gzgl\install\data\dbctrs9.dll"
+		"dbodbc9.dll"                                           2003-10-16     22:05:36       557056  "9.0.0.1227"       "A"           "51eca197034f973a9b0666d4770df807"      "d:\mywork\pb\gzgl\install\data\dbodbc9.dll"
+		"dboledb9.dll"                                          2003-10-16     22:20:48       614400  "9.0.0.1227"       "A"           "3496d42756d14e1f19306f207604241a"      "d:\mywork\pb\gzgl\install\data\dboledb9.dll"
+		"dboledba9.dll"                                         2003-10-16     22:20:48        94208  "9.0.0.1227"       "A"           "54b5f0b2b870e2bbce5d16c2b8f431eb"      "d:\mywork\pb\gzgl\install\data\dboledba9.dll"
+
+>Files1<
+
+		Size of Files:   		      11004721
+		Size in Library:		       4945041
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"asa.cvf"                                               2003-03-31     16:25:06       233453  ""                 "A"           "5dd5610572d501f658e7ff7ad5745027"      "d:\mywork\pb\gzgl\install\data\asa.cvf"
+		"asa.cvu"                                               2003-09-11     22:00:26        13064  ""                 "A"           "b4d78d0c1b87ed9d02dca08809e47332"      "d:\mywork\pb\gzgl\install\data\asa.cvu"
+		"backup.syb"                                            2004-06-30     10:09:06          123  ""                 "A"           "80325e4ef47b723f7204f6779cebebe7"      "d:\mywork\pb\gzgl\install\data\backup.syb"
+		"dbbackup.exe"                                          2003-10-16     22:22:04       102400  "9.0.0.1227"       "A"           "d7dbb99f0c9fd1de610a0ce72388ce2e"      "d:\mywork\pb\gzgl\install\data\dbbackup.exe"
+		"dbcis9.dll"                                            2003-10-16     22:15:38       249856  "9.0.0.1227"       "A"           "0271d7429812dc75a7dddc27a6316225"      "d:\mywork\pb\gzgl\install\data\dbcis9.dll"
+		"dbcollat.exe"                                          2003-10-16     22:22:06       102400  "9.0.0.1227"       "A"           "439f83aa28ea327c202efc2e62775f6c"      "d:\mywork\pb\gzgl\install\data\dbcollat.exe"
+		"dbcon9.dll"                                            2003-10-16     22:05:46       172032  "9.0.0.1227"       "A"           "2aceef770fa1c340cd4d31520b6496de"      "d:\mywork\pb\gzgl\install\data\dbcon9.dll"
+		"dbconsole.exe"                                         2003-10-16     22:06:14       122880  "9.0.0.1227"       "A"           "a49b5b5fa9703a1fe583798b612ed6ba"      "d:\mywork\pb\gzgl\install\data\dbconsole.exe"
+		"dbdsn.exe"                                             2003-10-16     22:22:08       122880  "9.0.0.1227"       "A"           "93b749811d14c0c8c734f263041be137"      "d:\mywork\pb\gzgl\install\data\dbdsn.exe"
+		"dbeng9.exe"                                            2003-10-16     22:15:10        73728  "9.0.0.1227"       "A"           "9b84397293b17f3f9564408b51086662"      "d:\mywork\pb\gzgl\install\data\dbeng9.exe"
+		"dberase.exe"                                           2003-10-16     22:22:10       102400  "9.0.0.1227"       "A"           "401d3651ff8e90b50557f8d14a9eefcd"      "d:\mywork\pb\gzgl\install\data\dberase.exe"
+		"dbexpand.exe"                                          2003-10-16     22:22:12       102400  "9.0.0.1227"       "A"           "f2d987f6e24b41f9772272f6a7296c93"      "d:\mywork\pb\gzgl\install\data\dbexpand.exe"
+		"dbextf.dll"                                            2003-10-16     22:15:48        77824  "9.0.0.1227"       "A"           "bc9a4d55d85023dd93d313b3441d1f82"      "d:\mywork\pb\gzgl\install\data\dbextf.dll"
+		"dbextf50.dll"                                          2003-10-16     22:15:50        49152  "9.0.0.1227"       "A"           "9e240cad3ac4b542ffa0a970495efdf8"      "d:\mywork\pb\gzgl\install\data\dbextf50.dll"
+		"dbextf6.dll"                                           2003-10-16     22:15:50        49152  "9.0.0.1227"       "A"           "9e240cad3ac4b542ffa0a970495efdf8"      "d:\mywork\pb\gzgl\install\data\dbextf6.dll"
+		"dbfhide.exe"                                           2003-10-16     22:22:02       102400  "9.0.0.1227"       "A"           "109eefb2ef4f9e9a60ddae7916800fb8"      "d:\mywork\pb\gzgl\install\data\dbfhide.exe"
+		"dbhist.exe"                                            2003-10-16     22:22:52       122880  "9.0.0.1227"       "A"           "bf843c4d12329b0a267ec13b1dc82455"      "d:\mywork\pb\gzgl\install\data\dbhist.exe"
+		"dbinfo.exe"                                            2003-10-16     22:22:16       102400  "9.0.0.1227"       "A"           "1218e98a05103eea7e46006e7ba6da6b"      "d:\mywork\pb\gzgl\install\data\dbinfo.exe"
+		"dbinit.exe"                                            2003-10-16     22:22:18       106496  "9.0.0.1227"       "A"           "a04ea2981398501ce97658c79761d76d"      "d:\mywork\pb\gzgl\install\data\dbinit.exe"
+		"dbisql.cls"                                            2003-03-31     16:20:10        56687  ""                 "A"           "479fabee37b95d033bbf33d70cc0f167"      "d:\mywork\pb\gzgl\install\data\dbisql.cls"
+		"dbisql.exe"                                            2003-10-16     22:17:04       131072  "9.0.0.1227"       "A"           "7037cf89d94976af5b44936e150640d7"      "d:\mywork\pb\gzgl\install\data\dbisql.exe"
+		"dbisqlc.exe"                                           2003-10-16     22:06:10       393216  "9.0.0.1227"       "A"           "fa34a4acb902d58848088919b2af5034"      "d:\mywork\pb\gzgl\install\data\dbisqlc.exe"
+		"dbisqlg.exe"                                           2003-10-16     22:17:10       131072  "9.0.0.1227"       "A"           "e6e950a9f377d7a40584483eee548375"      "d:\mywork\pb\gzgl\install\data\dbisqlg.exe"
+		"dbjodbc9.dll"                                          2003-10-16     22:17:18       229376  "9.0.0.1227"       "A"           "3a8afa9155d0943baeb5573fb59aeb50"      "d:\mywork\pb\gzgl\install\data\dbjodbc9.dll"
+		"dblgen9.dll"                                           2003-10-16     22:17:34       557056  "9.0.0.1227"       "A"           "a38a5bd2e669cfeb1e6050075dc081c9"      "d:\mywork\pb\gzgl\install\data\dblgen9.dll"
+		"dblib9.dll"                                            2003-10-16     22:04:30       446464  "9.0.0.1227"       "A"           "cf62541bd7235ab5ec1a09bdf5445726"      "d:\mywork\pb\gzgl\install\data\dblib9.dll"
+		"dblic.exe"                                             2003-10-16     22:22:20       102400  "9.0.0.1227"       "A"           "27d1a11095873c0c748fcecd67c27bd3"      "d:\mywork\pb\gzgl\install\data\dblic.exe"
+		"dblocate.exe"                                          2003-10-16     22:22:22       102400  "9.0.0.1227"       "A"           "c8e8d2af4026633f2032ab849db76a8b"      "d:\mywork\pb\gzgl\install\data\dblocate.exe"
+		"dblog.exe"                                             2003-10-16     22:22:24       102400  "9.0.0.1227"       "A"           "82f7068b855f792a12c51b1e29277bac"      "d:\mywork\pb\gzgl\install\data\dblog.exe"
+		"dbmem.vxd"                                             2003-10-16     22:15:40         5770  ""                 "A"           "c1b4cb5a476ef9a8a790d67cf07f3d89"      "d:\mywork\pb\gzgl\install\data\dbmem.vxd"
+		"dbping.exe"                                            2003-10-16     22:22:26       110592  "9.0.0.1227"       "A"           "4853e8b88ab4be5356459b2491b65687"      "d:\mywork\pb\gzgl\install\data\dbping.exe"
+		"dbput9.dll"                                            2003-10-16     22:04:14       167936  "9.0.0.1227"       "A"           "2f8b35ac19910353b5b42e7d6ae58e5a"      "d:\mywork\pb\gzgl\install\data\dbput9.dll"
+		"dbserv9.dll"                                           2003-10-16     22:15:06      3366912  "9.0.0.1227"       "A"           "52aaba217bf032c0b8ec59cf51c29ad6"      "d:\mywork\pb\gzgl\install\data\dbserv9.dll"
+		"dbshrink.exe"                                          2003-10-16     22:22:28       102400  "9.0.0.1227"       "A"           "b004b62288ec4349afc4774d535245cc"      "d:\mywork\pb\gzgl\install\data\dbshrink.exe"
+		"dbspawn.exe"                                           2003-10-16     22:22:28       102400  "9.0.0.1227"       "A"           "ed954be9356f5a719cb927cc10e3f763"      "d:\mywork\pb\gzgl\install\data\dbspawn.exe"
+		"dbsrv9.exe"                                            2003-10-16     22:15:14        73728  "9.0.0.1227"       "A"           "d163693bf9ce68f6305a13f86a6f3202"      "d:\mywork\pb\gzgl\install\data\dbsrv9.exe"
+		"dbstop.exe"                                            2003-10-16     22:22:30       126976  "9.0.0.1227"       "A"           "d847820ea42a92ce3f1f3b8f233a377d"      "d:\mywork\pb\gzgl\install\data\dbstop.exe"
+		"dbsvc.exe"                                             2003-10-16     22:22:50       110592  "9.0.0.1227"       "A"           "4e5b94291dba3bdf0349d01cf905afd6"      "d:\mywork\pb\gzgl\install\data\dbsvc.exe"
+		"dbtool9.dll"                                           2003-10-16     22:06:30      1060864  "9.0.0.1227"       "A"           "0d057f7ac9b3adb7f7691e25cebd2068"      "d:\mywork\pb\gzgl\install\data\dbtool9.dll"
+		"dbtran.exe"                                            2003-10-16     22:22:32       110592  "9.0.0.1227"       "A"           "fd0a7cdad525265cbf50522cb95a4767"      "d:\mywork\pb\gzgl\install\data\dbtran.exe"
+		"dbtsinfo.exe"                                          2003-10-16     22:22:36       122880  "9.0.0.1227"       "A"           "02748ed9f8359c799389f9ef0785f327"      "d:\mywork\pb\gzgl\install\data\dbtsinfo.exe"
+		"dbulseg.exe"                                           2003-10-16     22:55:52       102400  "9.0.0.1227"       "A"           "e25db4a4cb2c3cfab9dc0dd3193e33bd"      "d:\mywork\pb\gzgl\install\data\dbulseg.exe"
+		"dbunic9.dll"                                           2003-10-16     22:04:20       454656  "9.0.0.1227"       "A"           "10049d01ead3060a99e388f2638c7196"      "d:\mywork\pb\gzgl\install\data\dbunic9.dll"
+		"dbunload.exe"                                          2003-10-16     22:22:34       106496  "9.0.0.1227"       "A"           "9692d1dd1984aa896c324fd228f8f2a2"      "d:\mywork\pb\gzgl\install\data\dbunload.exe"
+		"dbupgrad.exe"                                          2003-10-16     22:22:38       102400  "9.0.0.1227"       "A"           "d5668aeda797d72d7fe4d69ffd70e06e"      "d:\mywork\pb\gzgl\install\data\dbupgrad.exe"
+		"dbvalid.exe"                                           2003-10-16     22:22:40       102400  "9.0.0.1227"       "A"           "aed76aa41922e26fd746759a0c8da41f"      "d:\mywork\pb\gzgl\install\data\dbvalid.exe"
+		"dbwrite.exe"                                           2003-10-16     22:22:42       102400  "9.0.0.1227"       "A"           "467ae6b4971b213b8c549f984c94b265"      "d:\mywork\pb\gzgl\install\data\dbwrite.exe"
+		"libsybbr.dll"                                          2003-10-16     22:06:50        81920  "9.0.0.1227"       "A"           "d695a221ac1b3f307a33fc48505a94e9"      "d:\mywork\pb\gzgl\install\data\libsybbr.dll"
+		"mljodbc9.dll"                                          2003-10-16     22:17:18       229376  "9.0.0.1227"       "A"           "3a8afa9155d0943baeb5573fb59aeb50"      "d:\mywork\pb\gzgl\install\data\mljodbc9.dll"
+		"rebuild.bat"                                           2003-03-31     16:22:02          901  ""                 "A"           "4f0e15ae2c1c5e6a953cfcabc7530860"      "d:\mywork\pb\gzgl\install\data\rebuild.bat"
+		"util_db.ini"                                           2003-03-31     16:22:20           67  ""                 "A"           "dc7600c9e459f756f37be11be02ecad0"      "d:\mywork\pb\gzgl\install\data\util_db.ini"
+
+>Files<
+
+		Size of Files:   		      10622563
+		Size in Library:		       4800158
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"089.bmp"                                               2004-05-19     09:43:38         2104  ""                 "A"           "2079c12e4d600d93e0c2a917c174a4af"      "d:\mywork\pb\gzgl\install\bmp\089.bmp"
+		"1.gif"                                                 2007-10-10     15:09:44         1050  ""                 "A"           "e7afb1d4807cecf6fceee50e982786e6"      "d:\mywork\pb\gzgl\install\bmp\1.gif"
+		"11.bmp"                                                2009-07-04     11:22:00       312056  ""                 "A"           "e26a08171276acdef0f73ce37db76e1c"      "d:\mywork\pb\gzgl\install\bmp\11.bmp"
+		"2.gif"                                                 2007-09-29     14:01:26         1131  ""                 "A"           "e733b1f867e6d5244c3bb5733cdcbd25"      "d:\mywork\pb\gzgl\install\bmp\2.gif"
+		"20032218447243.ico"                                    2005-12-30     08:28:20        49166  ""                 "A"           "069ed22882af049b2967128e0795ed48"      "d:\mywork\pb\gzgl\install\bmp\20032218447243.ico"
+		"22.jpg"                                                2005-10-15     13:55:32         8671  ""                 "A"           "0a385fe04f76616348f22924a173acf4"      "d:\mywork\pb\gzgl\install\bmp\22.jpg"
+		"222.bmp"                                               2007-03-21     09:28:38        29846  ""                 "A"           "0fbecc714c1094bd61398a36bc25287a"      "d:\mywork\pb\gzgl\install\bmp\222.bmp"
+		"3.gif"                                                 2007-10-10     15:21:46         1100  ""                 "A"           "2a7a05cf917bfe1974e894f1fcb4acfe"      "d:\mywork\pb\gzgl\install\bmp\3.gif"
+		"3.ico"                                                 2001-03-22     23:37:26        11886  ""                 "A"           "b53eeb6bca2e5d13a67affbfafaf3bb7"      "d:\mywork\pb\gzgl\install\bmp\3.ico"
+		"321.bmp"                                               2005-05-26     15:47:20       270056  ""                 "A"           "f7e46b84e0325c56de999e651b7c6352"      "d:\mywork\pb\gzgl\install\bmp\321.bmp"
+		"33.bmp"                                                2009-07-04     11:28:40        90776  ""                 "A"           "1574289cba0680add6e1e3d30aa9774f"      "d:\mywork\pb\gzgl\install\bmp\33.bmp"
+		"4.gif"                                                 2007-10-10     15:25:56         1114  ""                 "A"           "8acd72dca348258bce42dc7018b7c7f1"      "d:\mywork\pb\gzgl\install\bmp\4.gif"
+		"444.bmp"                                               2009-07-04     11:25:40       192056  ""                 "A"           "48bf8f20b835619d41da116c862b5135"      "d:\mywork\pb\gzgl\install\bmp\444.bmp"
+		"acoseditundo.ico"                                      2006-12-16     23:22:42         3606  ""                 "A"           "89eb5afffd28f326f18962a5eaf5fb49"      "d:\mywork\pb\gzgl\install\bmp\acoseditundo.ico"
+		"attendance.bmp"                                        2004-06-02     11:16:32        49206  ""                 "A"           "a37d6e01a2ce964c57d70f5d0340f7af"      "d:\mywork\pb\gzgl\install\bmp\attendance.bmp"
+		"cancel.ico"                                            2004-06-02     11:16:32       161862  ""                 "A"           "5d3f4724643a2b8acecdcf963e0af2f9"      "d:\mywork\pb\gzgl\install\bmp\cancel.ico"
+		"cute mis.ico"                                          2004-06-02     11:16:34       161862  ""                 "A"           "414b902dc44cb01f0bb99bd7d6a1a82d"      "d:\mywork\pb\gzgl\install\bmp\cute mis.ico"
+		"delete.ico"                                            2003-08-14     14:51:42        94358  ""                 "A"           "d2692f4f3a4e0832b3217244b26d9a70"      "d:\mywork\pb\gzgl\install\bmp\delete.ico"
+		"download.bmp"                                          2004-05-30     16:15:18        49206  ""                 "A"           "8ebd9524201aeaa3a3159561dd382cd4"      "d:\mywork\pb\gzgl\install\bmp\download.bmp"
+		"excel.ico"                                             2003-03-11     18:08:42       123790  ""                 "A"           "01b500794c74be989854fe12ca83dff2"      "d:\mywork\pb\gzgl\install\bmp\excel.ico"
+		"exit.bmp"                                              2004-05-24     13:51:18         4150  ""                 "A"           "a4f6868dc0ba35bf13c52749e439c870"      "d:\mywork\pb\gzgl\install\bmp\exit.bmp"
+		"favorites.ico"                                         2001-03-22     23:37:26        11886  ""                 "A"           "b53eeb6bca2e5d13a67affbfafaf3bb7"      "d:\mywork\pb\gzgl\install\bmp\favorites.ico"
+		"hand.cur"                                              2000-12-08     21:28:14          326  ""                 "A"           "6967d950486e5bb4dcda5377aef8a7fd"      "d:\mywork\pb\gzgl\install\bmp\hand.cur"
+		"hand.jpg"                                              2005-01-07     08:47:54          603  ""                 "A"           "aeda5f485b5bf961f136119ef2541caa"      "d:\mywork\pb\gzgl\install\bmp\hand.jpg"
+		"hand2.cur"                                             2000-12-08     22:52:22          326  ""                 "A"           "f8ff5fe24eb2de691db0c87df3510404"      "d:\mywork\pb\gzgl\install\bmp\hand2.cur"
+		"hand2.jpg"                                             2005-01-07     08:48:04          619  ""                 "A"           "3ca57a0fb359e6691a6675014c057128"      "d:\mywork\pb\gzgl\install\bmp\hand2.jpg"
+		"info.ico"                                              2003-08-14     14:54:42        94358  ""                 "A"           "753aa7b2cda632b566e65e1c07e86bfb"      "d:\mywork\pb\gzgl\install\bmp\info.ico"
+		"insert.ico"                                            2003-08-14     11:32:08        94358  ""                 "A"           "2aa3ed6a7853b1cd6f43fee55c971942"      "d:\mywork\pb\gzgl\install\bmp\insert.ico"
+		"liveupdate.ico"                                        2003-09-21     10:01:02       161862  ""                 "A"           "eb87f98d9b279c36fe1c47754e48a124"      "d:\mywork\pb\gzgl\install\bmp\liveupdate.ico"
+		"logo.bmp"                                              2005-02-01     07:34:42       196664  ""                 "A"           "605b8792eec07f32e85f8aa780ebaa37"      "d:\mywork\pb\gzgl\install\bmp\logo.bmp"
+		"move.bmp"                                              2005-01-07     08:48:18          246  ""                 "A"           "f760533a9f692e20ac972d82e3821699"      "d:\mywork\pb\gzgl\install\bmp\move.bmp"
+		"ok.ico"                                                2004-06-02     11:16:36       161862  ""                 "A"           "2ecdbca6e7646b31a7c110b84bb07764"      "d:\mywork\pb\gzgl\install\bmp\ok.ico"
+		"p_1.bmp"                                               2005-01-07     08:48:28         5862  ""                 "A"           "dec3abe141b8d81d28de5b191e87e603"      "d:\mywork\pb\gzgl\install\bmp\p_1.bmp"
+		"p_2.bmp"                                               2005-01-07     08:48:40         5862  ""                 "A"           "d4c6d95637c4bd5cc61f96b790dab530"      "d:\mywork\pb\gzgl\install\bmp\p_2.bmp"
+		"p_3.bmp"                                               2005-01-07     08:48:50        39054  ""                 "A"           "306b500a027eaf6dfed1131369d2f325"      "d:\mywork\pb\gzgl\install\bmp\p_3.bmp"
+		"print.ico"                                             2003-05-22     13:12:12       161862  ""                 "A"           "50569013102b2d8c7db525ebdeeb5da1"      "d:\mywork\pb\gzgl\install\bmp\print.ico"
+		"save.ico"                                              2003-08-14     14:54:38        94358  ""                 "A"           "76c44ea15ace64f943a7a035adfa8cb6"      "d:\mywork\pb\gzgl\install\bmp\save.ico"
+		"search.ico"                                            2003-08-14     14:54:28        94358  ""                 "A"           "8b0122bf9bf2475e4656bffaee2c0fca"      "d:\mywork\pb\gzgl\install\bmp\search.ico"
+		"xp_chk_1.bmp"                                          2002-10-29     15:21:58          822  ""                 "A"           "fdb703b206891423a1a1b5774c792d48"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_1.bmp"
+		"xp_chk_2.bmp"                                          2002-10-29     15:22:28          822  ""                 "A"           "792e282a050a022da053bfffd766e21d"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_2.bmp"
+		"xp_chk_3.bmp"                                          2002-10-29     15:26:12          822  ""                 "A"           "526d58ecc6a00f1784efd8c84bef21bd"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_3.bmp"
+		"xp_chk_4.bmp"                                          2002-10-29     15:27:10          822  ""                 "A"           "c61becb10bf0b5b41cd47185c409d9fa"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_4.bmp"
+		"xp_chk_5.bmp"                                          2002-10-29     15:27:38          822  ""                 "A"           "a3808e215f5d3793298e990cb2c9b9d5"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_5.bmp"
+		"xp_chk_6.bmp"                                          2002-10-29     15:28:32          822  ""                 "A"           "a9fea2340f504bd0d8bf0aba8e4f44a9"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_6.bmp"
+		"xp_chk_7.bmp"                                          2002-10-29     15:28:46          822  ""                 "A"           "858744865f458a478963a0942f38a587"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_7.bmp"
+		"xp_chk_8.bmp"                                          2002-10-29     15:29:00          822  ""                 "A"           "768c646f415a944248c3b2953da631f2"      "d:\mywork\pb\gzgl\install\bmp\xp_chk_8.bmp"
+		"zoomin.cur"                                            2000-12-08     23:45:06          326  ""                 "A"           "6f28f1d6b63e600013376d36849cf729"      "d:\mywork\pb\gzgl\install\bmp\zoomin.cur"
+		"zoomin.bmp"                                            2005-01-07     08:49:18          246  ""                 "A"           "f0d823baa90a10f7c834d60aa8fc396c"      "d:\mywork\pb\gzgl\install\bmp\zoomin.bmp"
+		"zoomin.jpg"                                            2005-01-07     08:49:28          829  ""                 "A"           "2b0c2acf6f703ed21b9e2aed9515cba1"      "d:\mywork\pb\gzgl\install\bmp\zoomin.jpg"
+		"zoomout.cur"                                           2000-12-08     23:44:50          326  ""                 "A"           "0f61016e8dd3e258833c8d9b39cfcab6"      "d:\mywork\pb\gzgl\install\bmp\zoomout.cur"
+		"zoomout.bmp"                                           2005-01-07     08:49:50          246  ""                 "A"           "521f0a7c476ddd644fe400970167b64b"      "d:\mywork\pb\gzgl\install\bmp\zoomout.bmp"
+		"zoomout.jpg"                                           2005-01-07     08:49:40          798  ""                 "A"           "506bd878f5bb7cb9feb1fcbb59bda3d0"      "d:\mywork\pb\gzgl\install\bmp\zoomout.jpg"
+		"bmgl.bmp"                                              2005-02-01     07:32:50       196664  ""                 "A"           "a7608b056beac4cf2193f226cff098e0"      "d:\mywork\pb\gzgl\install\bmp\bmgl.bmp"
+		"bsgl.bmp"                                              2005-02-01     07:33:32       196664  ""                 "A"           "3eb09849356d5eddbd04265f167ed161"      "d:\mywork\pb\gzgl\install\bmp\bsgl.bmp"
+		"cksz.bmp"                                              2005-02-01     07:32:02       196664  ""                 "A"           "82ce816d4db0bfc024291a566c82e1c2"      "d:\mywork\pb\gzgl\install\bmp\cksz.bmp"
+		"dgq.bmp"                                               2005-09-01     21:37:22        97256  ""                 "A"           "693e0c93a4b34238168811c33b6eda31"      "d:\mywork\pb\gzgl\install\bmp\dgq.bmp"
+		"dw_bar.gif"                                            2002-02-16     12:07:04           66  ""                 "A"           "6d8e65b424871c45457032c07719d811"      "d:\mywork\pb\gzgl\install\bmp\dw_bar.gif"
+		"dw_book_open.gif"                                      2002-02-16     12:07:04          131  ""                 "A"           "06cbcfdf11b4928d79c3a92eaeca7ed0"      "d:\mywork\pb\gzgl\install\bmp\dw_book_open.gif"
+		"dw_corner.gif"                                         2002-02-16     12:07:02           66  ""                 "A"           "aa58afddb64d3f1fa7c1cb36a2296253"      "d:\mywork\pb\gzgl\install\bmp\dw_corner.gif"
+		"dw_corner_minus.gif"                                   2002-02-16     12:07:02           92  ""                 "A"           "8a901f9fb4ee83cb20aa5b218aa5ea7e"      "d:\mywork\pb\gzgl\install\bmp\dw_corner_minus.gif"
+		"dw_corner_plus.gif"                                    2002-02-16     12:07:04           96  ""                 "A"           "77bbd0e115aaa7b0ba359bab87c1b3cb"      "d:\mywork\pb\gzgl\install\bmp\dw_corner_plus.gif"
+		"dw_local.gif"                                          2002-02-16     12:07:04          131  ""                 "A"           "06cbcfdf11b4928d79c3a92eaeca7ed0"      "d:\mywork\pb\gzgl\install\bmp\dw_local.gif"
+		"dw_ref.gif"                                            2002-02-16     12:07:04          131  ""                 "A"           "06cbcfdf11b4928d79c3a92eaeca7ed0"      "d:\mywork\pb\gzgl\install\bmp\dw_ref.gif"
+		"dw_root.gif"                                           2002-02-16     12:07:04          131  ""                 "A"           "06cbcfdf11b4928d79c3a92eaeca7ed0"      "d:\mywork\pb\gzgl\install\bmp\dw_root.gif"
+		"dwname.bmp"                                            2005-02-01     07:31:32       196664  ""                 "A"           "a3dc6b0edd3c36f17ecf4be4053a049f"      "d:\mywork\pb\gzgl\install\bmp\dwname.bmp"
+		"explorer10.bmp"                                        2004-05-19     09:43:34         3128  ""                 "A"           "81e5d96b3f5c35bfff27798ac0bdf8e5"      "d:\mywork\pb\gzgl\install\bmp\explorer10.bmp"
+		"explorer8.bmp"                                         2004-05-19     09:43:36         3128  ""                 "A"           "fa1f5ca4516e63a5fa8dd5596cd4879c"      "d:\mywork\pb\gzgl\install\bmp\explorer8.bmp"
+		"explorer9.bmp"                                         2004-05-19     09:42:40         3128  ""                 "A"           "037db98171833907dd2c1257f71928fc"      "d:\mywork\pb\gzgl\install\bmp\explorer9.bmp"
+		"fcq.bmp"                                               2005-09-01     21:31:50       116680  ""                 "A"           "8016de91e1f19a4c31d7d2dd85a5f72f"      "d:\mywork\pb\gzgl\install\bmp\fcq.bmp"
+		"gys.bmp"                                               2005-02-01     07:43:40       196664  ""                 "A"           "87106de75fddda6e271723525a39486e"      "d:\mywork\pb\gzgl\install\bmp\gys.bmp"
+		"hygl.bmp"                                              2005-02-01     07:43:04       196664  ""                 "A"           "74fddbc92754ab4f88fece97dc51f40c"      "d:\mywork\pb\gzgl\install\bmp\hygl.bmp"
+		"hyth.bmp"                                              2005-02-01     07:42:32       196664  ""                 "A"           "e13e3e2bebaa8066b1ded240631dab37"      "d:\mywork\pb\gzgl\install\bmp\hyth.bmp"
+		"jc.bmp"                                                2005-05-26     16:02:46       127566  ""                 "A"           "f5d414720813d809a78fd9c60c6ba04b"      "d:\mywork\pb\gzgl\install\bmp\jc.bmp"
+		"jcgl.bmp"                                              2005-02-01     07:42:00       196664  ""                 "A"           "beacde6e6e4324d957d42d76914d4dda"      "d:\mywork\pb\gzgl\install\bmp\jcgl.bmp"
+		"jhgl.bmp"                                              2005-02-01     07:41:16       196664  ""                 "A"           "88f77cb99ddb6e9e494985a6feccea99"      "d:\mywork\pb\gzgl\install\bmp\jhgl.bmp"
+		"jhth.bmp"                                              2005-02-01     07:40:42       196664  ""                 "A"           "b99b5116a36a115500d4123894970eee"      "d:\mywork\pb\gzgl\install\bmp\jhth.bmp"
+		"jrgl.bmp"                                              2005-02-01     07:40:10       196664  ""                 "A"           "18d8038940cde08b54718a67e5a95945"      "d:\mywork\pb\gzgl\install\bmp\jrgl.bmp"
+		"jsfs.bmp"                                              2005-02-01     07:39:38       196664  ""                 "A"           "47fbfad41f41b654b0580011e3971697"      "d:\mywork\pb\gzgl\install\bmp\jsfs.bmp"
+		"kcbo.bmp"                                              2005-02-01     07:39:08       196664  ""                 "A"           "4d6965c4bcd5216f255decafc62d6b6a"      "d:\mywork\pb\gzgl\install\bmp\kcbo.bmp"
+		"kccz.bmp"                                              2005-02-01     07:38:36       196664  ""                 "A"           "fdc56f7b22ed9351f5e7b2ea6309b919"      "d:\mywork\pb\gzgl\install\bmp\kccz.bmp"
+		"kcsx.bmp"                                              2005-02-01     07:37:56       196664  ""                 "A"           "4d9058ba7cf21d54fec725e7a0f290a5"      "d:\mywork\pb\gzgl\install\bmp\kcsx.bmp"
+		"kcxx.bmp"                                              2005-02-01     07:37:26       196664  ""                 "A"           "c7a508097ac88640dbf203b09bc27f87"      "d:\mywork\pb\gzgl\install\bmp\kcxx.bmp"
+		"kh.bmp"                                                2005-02-01     07:35:48       196664  ""                 "A"           "26f3a9f9dd37d4177a0ca0093a496949"      "d:\mywork\pb\gzgl\install\bmp\kh.bmp"
+		"lian1xin.jpg"                                          2005-09-01     22:13:30        92040  ""                 "A"           "31756d33f0bddede38f6811bc3cfb946"      "d:\mywork\pb\gzgl\install\bmp\lian1xin.jpg"
+		"lianxi1n.jpg"                                          2005-09-01     22:32:50        92959  ""                 "A"           "b9965102f9ac502a56f2c89b84de9c15"      "d:\mywork\pb\gzgl\install\bmp\lianxi1n.jpg"
+		"lianxin.bmp"                                           2005-09-11     14:03:22        33638  ""                 "A"           "5face923b6c990a1b52771229cd0bdb5"      "d:\mywork\pb\gzgl\install\bmp\lianxin.bmp"
+		"lianxin.jpg"                                           2005-09-01     22:34:32        93942  ""                 "A"           "9ceb9bfbb6a3192ec52612d408a41643"      "d:\mywork\pb\gzgl\install\bmp\lianxin.jpg"
+		"lianxin2.jpg"                                          2005-09-01     22:07:32        75241  ""                 "A"           "d4d60e0ac14a5baed9fc709678545cbb"      "d:\mywork\pb\gzgl\install\bmp\lianxin2.jpg"
+		"login.gif"                                             2005-02-01     07:35:14        12854  ""                 "A"           "817e8dce7d8ab21896e2b462c869c1c8"      "d:\mywork\pb\gzgl\install\bmp\login.gif"
+		"mlgl.gif"                                              2007-10-10     15:28:46         3013  ""                 "A"           "42bbabf9bc9b9f666821bb9bf322ae8d"      "d:\mywork\pb\gzgl\install\bmp\mlgl.gif"
+		"mlgl.jpg"                                              2007-10-10     15:30:06        12349  ""                 "A"           "da2c11775f852768a60dcf9b93d05d9c"      "d:\mywork\pb\gzgl\install\bmp\mlgl.jpg"
+		"passwork.bmp"                                          2005-02-01     07:47:08       196664  ""                 "A"           "97bb33ee7d80c3db684a7c3fbc3abf02"      "d:\mywork\pb\gzgl\install\bmp\passwork.bmp"
+		"qkjs.bmp"                                              2005-02-01     07:58:46       196664  ""                 "A"           "d75dc684765ea767b4f2d0f16384a455"      "d:\mywork\pb\gzgl\install\bmp\qkjs.bmp"
+		"qtsz.bmp"                                              2005-02-01     07:58:14       196664  ""                 "A"           "0170737c39d20efa6f5c4a434e9cea30"      "d:\mywork\pb\gzgl\install\bmp\qtsz.bmp"
+		"rr.bmp"                                                2005-05-26     16:17:16       196662  ""                 "A"           "aadbad5b73ae01238bef40c3a521dee7"      "d:\mywork\pb\gzgl\install\bmp\rr.bmp"
+		"spkc.bmp"                                              2005-02-01     07:46:24       196664  ""                 "A"           "2a5020394bc972b22b2fb3f6a6bdffaf"      "d:\mywork\pb\gzgl\install\bmp\spkc.bmp"
+		"splx.bmp"                                              2005-02-01     07:57:48       196664  ""                 "A"           "8ff1b46cc0b650c5d6a442475d557531"      "d:\mywork\pb\gzgl\install\bmp\splx.bmp"
+		"spzk.bmp"                                              2005-02-01     07:57:18       196664  ""                 "A"           "365dde32b9a1000aebb525cdb93ba64e"      "d:\mywork\pb\gzgl\install\bmp\spzk.bmp"
+		"spzlk.bmp"                                             2005-02-01     07:56:46       196664  ""                 "A"           "349b45665d5519065fcde060de36c5d0"      "d:\mywork\pb\gzgl\install\bmp\spzlk.bmp"
+		"tx.bmp"                                                2005-05-26     15:27:38       196664  ""                 "A"           "892f54a23c92ca4d36c560e3905c2df2"      "d:\mywork\pb\gzgl\install\bmp\tx.bmp"
+		"xiaodi.jpg"                                            2005-08-31     15:37:20         8648  ""                 "A"           "ce545e63871c9fd064e41124bdfafa8b"      "d:\mywork\pb\gzgl\install\bmp\xiaodi.jpg"
+		"xjt.bmp"                                               2006-01-18     10:10:28          822  ""                 "A"           "670a1459e7210841c8af8a9d903baaee"      "d:\mywork\pb\gzgl\install\bmp\xjt.bmp"
+		"xp_button_1_1.bmp"                                     2002-10-30     14:06:00          306  ""                 "A"           "135ef5f07ecf531d43b4e04b8502477c"      "d:\mywork\pb\gzgl\install\bmp\xp_button_1_1.bmp"
+		"xp_button_1_2.bmp"                                     2002-10-30     14:05:34          726  ""                 "A"           "9238016d3edb598154ecfb84ba788223"      "d:\mywork\pb\gzgl\install\bmp\xp_button_1_2.bmp"
+		"xp_button_1_3.bmp"                                     2002-10-30     14:06:24          306  ""                 "A"           "a031fdf8df16b0937955b926a6148552"      "d:\mywork\pb\gzgl\install\bmp\xp_button_1_3.bmp"
+		"xp_button_2_1.bmp"                                     2002-10-30     14:24:24          306  ""                 "A"           "e4a1d24fd7d4aa9d0c2164f2d89a524d"      "d:\mywork\pb\gzgl\install\bmp\xp_button_2_1.bmp"
+		"xp_button_2_2.bmp"                                     2002-10-30     14:18:06          810  ""                 "A"           "6700098919158bc2cd0a23cedd7b1af0"      "d:\mywork\pb\gzgl\install\bmp\xp_button_2_2.bmp"
+		"xp_button_2_3.bmp"                                     2002-10-30     14:19:08          306  ""                 "A"           "2ea81463263ef7c2a5383831b1ec069c"      "d:\mywork\pb\gzgl\install\bmp\xp_button_2_3.bmp"
+		"xp_button_3_1.bmp"                                     2002-10-30     14:40:32          306  ""                 "A"           "36fa7989c9cf8bcd304cc4a0ff3329b8"      "d:\mywork\pb\gzgl\install\bmp\xp_button_3_1.bmp"
+		"xp_button_3_2.bmp"                                     2002-10-30     14:40:56          810  ""                 "A"           "5b5e922812adff78f857842378fc798f"      "d:\mywork\pb\gzgl\install\bmp\xp_button_3_2.bmp"
+		"xp_button_3_3.bmp"                                     2002-10-30     14:41:22          306  ""                 "A"           "c84aba3aa0fc9a57974e838dffdb4e91"      "d:\mywork\pb\gzgl\install\bmp\xp_button_3_3.bmp"
+		"xp_button_4_1.bmp"                                     2002-10-30     14:51:24          306  ""                 "A"           "d6b8b2d511c1498131a455d981fbfd18"      "d:\mywork\pb\gzgl\install\bmp\xp_button_4_1.bmp"
+		"xp_button_4_2.bmp"                                     2002-10-30     14:48:32          810  ""                 "A"           "93ac1d3da335f2bfde13eff61e572b12"      "d:\mywork\pb\gzgl\install\bmp\xp_button_4_2.bmp"
+		"xp_button_4_3.bmp"                                     2002-10-30     14:51:40          306  ""                 "A"           "d877d044258b25a68caedb28e94957d6"      "d:\mywork\pb\gzgl\install\bmp\xp_button_4_3.bmp"
+		"xp_button_5_1.bmp"                                     2002-10-30     14:53:46          306  ""                 "A"           "c882ba4c8c7710b3fc23615d9eb88b2f"      "d:\mywork\pb\gzgl\install\bmp\xp_button_5_1.bmp"
+		"xp_button_5_2.bmp"                                     2002-10-30     14:53:58          726  ""                 "A"           "f781d15b36718e478ef3846834e1c819"      "d:\mywork\pb\gzgl\install\bmp\xp_button_5_2.bmp"
+		"xp_button_5_3.bmp"                                     2002-10-30     14:54:10          306  ""                 "A"           "a7b8bc1e4bdc13c27026b9c8f643a040"      "d:\mywork\pb\gzgl\install\bmp\xp_button_5_3.bmp"
+		"xsgl.bmp"                                              2005-02-01     07:54:46       196664  ""                 "A"           "d694b7e7f6ea5ccedab02d9ba3a0d792"      "d:\mywork\pb\gzgl\install\bmp\xsgl.bmp"
+		"xsth.bmp"                                              2005-02-01     07:54:20       196664  ""                 "A"           "9142e1d531fbec610ebf05983a401a04"      "d:\mywork\pb\gzgl\install\bmp\xsth.bmp"
+		"xxgl.bmp"                                              2005-02-01     07:53:32       196664  ""                 "A"           "0260c63232a799f80ea787ed07f58bf0"      "d:\mywork\pb\gzgl\install\bmp\xxgl.bmp"
+		"ygqx.bmp"                                              2005-02-01     07:53:02       196664  ""                 "A"           "4203916c328271163551fc1893ba3e6b"      "d:\mywork\pb\gzgl\install\bmp\ygqx.bmp"
+		"zc.bmp"                                                2005-02-01     07:52:24       196664  ""                 "A"           "fd7eb50503a9a1d4268b110c5d2daed7"      "d:\mywork\pb\gzgl\install\bmp\zc.bmp"
+		"zf.gif"                                                2004-09-13     15:36:18         1423  ""                 "A"           "1eba75ebe839bea79078e5449c2fb877"      "d:\mywork\pb\gzgl\install\bmp\zf.gif"
+		"zjbo.bmp"                                              2005-02-01     07:51:54       196664  ""                 "A"           "90dce0b58e4de1a1bbcc38680634ede4"      "d:\mywork\pb\gzgl\install\bmp\zjbo.bmp"
+		"zjjc.bmp"                                              2005-02-01     07:51:22       196664  ""                 "A"           "2e7347d8e723eb859f42e3fc2d1c3901"      "d:\mywork\pb\gzgl\install\bmp\zjjc.bmp"
+		"zjjr.bmp"                                              2005-02-01     07:50:54       196664  ""                 "A"           "2d209b89d1f45322a34a6f1242470ac6"      "d:\mywork\pb\gzgl\install\bmp\zjjr.bmp"
+		"zjzy.bmp"                                              2005-02-01     07:50:26       196664  ""                 "A"           "01fd5c63838e515e07c814f425a1d54e"      "d:\mywork\pb\gzgl\install\bmp\zjzy.bmp"
+		"仓库.bmp"                                              2005-02-01     07:49:54       196664  ""                 "A"           "58edfd15ab69e3b56e294b5c5fcf945d"      "d:\mywork\pb\gzgl\install\bmp\仓库.bmp"
+		"变价调拨.gif"                                          2003-03-26     19:38:42         4195  ""                 "A"           "033edb1f07933c5862ad89a26a99886f"      "d:\mywork\pb\gzgl\install\bmp\变价调拨.gif"
+
+>SelfRegFiles<
+
+		Size of Files:   		        452608
+		Size in Library:		        180309
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"pbodb90.dll"                                           2003-02-14     18:47:18       452608  "9.0.0.5507"       "A"           "c9c692e7344fa654c519c15aa9b6ff9d"      "d:\mywork\pb\gzgl\install\pbodb90.dll"

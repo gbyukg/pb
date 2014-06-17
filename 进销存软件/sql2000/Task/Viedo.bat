@@ -1,0 +1,1 @@
+C:\WINDOWS\vidcap32.Exe

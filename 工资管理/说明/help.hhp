@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=help.chm
+Contents file=C:\Documents and Settings\Administrator\桌面\说明\Table of Contents.hhc
+Display compile progress=No
+Index file=help.hhk
+Language=0x804 中文(中国)
+
+
+[FILES]
+C:\Documents and Settings\Administrator\桌面\说明\第一章 系统概述.htm
+C:\Documents and Settings\Administrator\桌面\说明\第二章 安装方法.htm
+C:\Documents and Settings\Administrator\桌面\说明\第六章  报表管理.htm
+C:\Documents and Settings\Administrator\桌面\说明\第七章 系统管理.htm
+C:\Documents and Settings\Administrator\桌面\说明\第三章 系统启动.htm
+C:\Documents and Settings\Administrator\桌面\说明\第四章 系统设置.htm
+C:\Documents and Settings\Administrator\桌面\说明\第五章 工 资 管 理.htm
